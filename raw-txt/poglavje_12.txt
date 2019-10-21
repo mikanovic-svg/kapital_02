@@ -1,0 +1,500 @@
+Dvanajsto poglavje
+DELOVNO OBDOBJE
+
+Vzemimo dve poslovni panogi z enako dolgim delovnim
+dnevom, denimo z deseturnim delovnim procesom, na pri-
+mer predilnico bombaža in tovarno lokomotiv. V prvi pa-
+nogi izdelajo določeno količino dogotovljenega produkta,
+bombažne preje, dnevno, tedensko; v drugi je treba ponav-
+ljati delovni proces morebiti tri mesece, da se izdela dogo-
+tovljen produkt, lokomotiva. V prvem primeru je produkt
+deljive narave in se začne isto delo vsak dan, vsak teden
+znova. V drugem primeru delovni proces ni pretrgan, ob-
+sega večje število dnevnih delovnih procesov, ki dajo v
+svoji povezanosti, v kontinuiteti svojih operacij dogotov-
+ljeni produkt šele po daljšem razdobju. Čeprav sta delovna
+procesa tu enako dolga, je zelo velika razlika v trajanju
+produkcijskega akta, se pravi v trajanju ponavljajočih
+se delovnih procesov, ki so potrebni, da se produkt do-
+konča, da se pošlje kot blago na trg, da se spremeni iz
+produktivnega kapitala v blagovnega. Razlika med fiksnim
+in cirkulirajočim kapitalom nima s tem nič opravka. Ta
+razlika bi obstajala tudi, če bi se v obeh poslovnih panogah
+uporabljala fiksni in cirkulirajoči kapital v popolnoma.
+enakih razmerjih.
+
+Te razlike v trajanju produkcijskega akta ne obstajajo
+samo med različnimi produkcijskimi področji, ampak tudi
+znotraj istega produkcijskega področja; te razlike so večje
+ali manjše, kakršen je pač obseg produkta, ki ga je treba
+dobaviti. Navadno stanovanjsko hišo je mogoče zgraditi v
+krajšem času kakor veliko tovarno in zahteva zato manjše
+
+ 
+12. Delovno obdobje 255
+
+ 
+
+število kontinuiranih delovnih procesov. Če zahteva grad-
+nja lokomotive tri mesece, porabi gradnja oklopne ladje
+eno ali več let. Produkcija žita potrebuje skoraj eno leto,
+produkcija rogate živine več let, gojitev gozda lahko potre-
+buje 12 do 100 let; cesto je mogoče napraviti morebiti v
+nekaj mesecih, medtem ko zahteva železnica več let; na-
+vadna preproga morda teden dni, gobelin več let, itd. Raz-
+like v trajanju produkcijskega akta so torej brezmejno
+raznovrstne.
+
+Razlika v trajanju produkcijskega akta mora seveda
+povzročiti pri enako velikih naložbah kapitala razliko v
+hitrosti obrata, torej v obdobjih, za katera se zalaga dani
+kapital. Vzemimo, da uporabljata strojna predilnica in
+tovarna lokomotiv enako velika kapitala, da je razmerje
+med konstantnim in variabilnim kapitalom isto, prav tako
+razmerje med fiksnimi in tekočimi sestavnimi deli
+kapitala; da je delovni dan enako dolg in njegova razdeli-
+tev na potrebno in presežno delo ista. Da bi odstranili še
+vse okoliščine, ki izvirajo iz cirkulacijskega procesa in ki
+so v tem primeru zunanjega značaja, predpostavljamo, da
+se producirata oba, preja in lokomotiva, po naročilu in da
+se plačata ob izročitvi dogotovljenega produkta. Na koncu
+tedna dobi ob izročitvi izgotovljene preje predilničar (pre-
+sežno vrednost puščamo tu ob strani) nazaj založeni cirku-
+lirajoči kapital in prav tako obrabo fiksnega kapitala, ki
+tiči v vrednosti preje. Lahko torej znova ponovi isti krožni
+tok z istim kapitalom. Njegov obrat je dokončan. Tovarnar
+lokomotiv pa mora nasprotno tri mesece teden za tednom
+vlagati vedno nov kapital v mezde in surovine in šele po
+treh mesecih, po dobavi lokomotive, je v tem času v enem in
+istem produkcijskem aktu, za izdelavo enega in istega pro-
+dukta postopoma zalagani cirkulirajoči kapital spet v obli-
+ki, v kateri lahko znovič prične svoj krožni tok. Prav tako
+se mu šele sedaj nadomesti obraba strojev, nastala v teh
+treh mesecih. Založitev prvega je enotedenska, drugega pa
+enotedenska, pomnožena z 12. Ob enakih drugih okolišči-
+nah mora imeti v rokah drugi dvanajstkrat več cirkulira-
+jočega kapitala kakor prvi.
+
+ 
+
+ 
+
+ 
+256 II. Obrat kapitala
+
+ 
+
+Da sta tedensko zalagana kapitala enaka, pa je tu po-
+polnoma nepomembna okoliščina. Najsi je velikost založe-
+nega kapitala takšna ali drugačna, je v prvem primeru
+založen le za en teden, v drugem za dvanajst tednov, pre-
+den je moč z njim znova delovati, ponoviti isto operacijo
+ali začeti kakšno drugo.
+
+Razlika v hitrosti obrata ali v trajanju, za katero je
+treba založiti posamezni kapital, preden lahko ista vrednost
+kapitala znova služi v novem procesu dela ali večanja
+vrednosti, izhaja tu iz naslednjega:
+
+Vzemimo, da stane gradnja lokomotive ali kakršnega
+koli drugega stroja 100 delovnih dni. Za delavce, ki so za-
+posleni v predilnici in v strojegradnji, pomeni 100 delovnih
+dni prav tako deljivo (diskretno) količino, ki sestoji po
+predpostavki iz 100 zaporednih, ločenih deseturnih de-
+lovnih procesov. Glede na produkt — stroj — pa je 100
+delovnih dni nedeljiva količina, en delovni dan, sestoječ
+iz 1000 delovnih ur, en sam nepretrgan produkcijski akt.
+Takšen delovni dan, ki je sestavljen iz zaporedja bolj ali
+manj številnih sklenjenih delovnih dni, imenujem delovno
+obdobje. Če govorimo o delovnem dnevu, mislimo na dolgost
+delovnega časa, v katerem mora delavec vsak dan trošiti
+svojo delovno silo, delati. Če pa govorimo nasprotno o de-
+lovnem obdobju, imamo v mislih število sklenjenih delov-
+nih dni, ki je v določeni poslovni panogi potrebno, da se
+lahko dobavi izgotovljen produkt. Produkt vsakega delov-
+nega dne je pri tem samo delni produkt, ki se iz dneva
+v dan dodeluje in pridobi šele na koncu daljšega ali kraj-
+šega obdobja delovnega časa svojo dokončno podobo, po-
+stane izgotovljena uporabna vrednost.
+
+Zaradi tega učinkujejo prekinitve, motnje družbenega
+produkcijskega procesa, na primer zaradi kriz, zelo različno
+na delovne produkte, ki so deljive narave, in na
+take, ki zahtevajo za svojo produkcijo daljše sklenjeno
+obdobje. Današnji produkciji določene množine preje, pre-
+moga itd. v prvem primeru ne sledi jutri nova produkcija
+preje, premoga itd. Drugače pa je z ladjami, stavbami,
+
+ 
+
+ 
+12. Delovno obdobje 257
+
+ 
+
+železnicami itd. Ne prekine se samo delo, pretrga se skle-
+njeni produkcijski akt. Če se delo ne nadaljuje, so za nje-
+govo produkcijo že porabljena produkcijska sredstva in
+delovna sila potrošeni brez koristi. Pa tudi če se nadaljuje,
+se v vmesnem presledku vedno kaj pokvari.
+
+Med vsem trajanjem delovnega obdobja se plast za
+plastjo kopiči del vrednosti, ki jo fiksni kapital dnevno
+oddaja produktu, dokler ni izgotovljen. Pri tem se pokaže
+hkrati praktični pomen razlike med fiksnim in cirkulira-
+jočim kapitalom. Fiksni kapital se zalaga v produkcijski
+proces za daljše razdobje, ni ga treba obnavljati pred pote-
+kom tega, mogoče večletnega roka. Vprašanje, ali oddaja
+parni stroj svojo vrednost kos za kosom dnevno preji, pro-
+duktu diskretnega delovnega procesa, ali pa v teku treh
+mesecev lokomotivi, produktu nedeljivega produkcijskega
+akta, ne spremeni ničesar na založenem kapitalu, ki je po-
+treben za nakup parnega stroja. V prvem primeru se vrača
+njegova vrednost v majhnih delcih, vzemimo tedensko, v
+drugem pa v velikih množinah, na primer trimesečno. V
+obeh primerih pa se obnovi parni stroj morebiti šele po 20
+letih. Dokler je vsako posamezno obdobje, v katerem se
+njegova vrednost kos za kosom vrača s prodajo produkta,
+krajše kot njegova lastna življenjska doba, nadaljuje isti
+parni stroj delovanje v produkcijskem procesu v več delov-
+
+nih obdobjih.
+
+Drugače pa je s cirkulirajočimi sestavnimi deli založe-
+nega kapitala. Za ta teden nakupljena delovna sila se je
+porabila v tem tednu in se je opredmetila v produktu. Na
+koncu tega tedna jo je treba plačati. To zalaganje kapitala
+v delovno silo se ponavlja vsak teden tri mesece, ne da bi
+mogel uporabiti kapitalist ta v enem tednu poralljeni del
+kapitala za plačilo dela v naslednjem. Vsak teden mora
+porabiti za plačilo delovne sile nov dodatni kapital.
+Če odmislimo vsa kreditna razmerja, mora biti kapitalist
+sposoben založiti mezdo za tri mesece, čeprav jo plačuje
+le v tedenskih obrokih. Prav tako je z drugim delom cirku-
+lirajočega kapitala, s surovinami in pomožnimi tvarinami.
+
+17 — Kapital II.
+
+ 
+258 Il. Obrat kapitala
+
+ 
+
+Plast za plastjo dela se nalaga v produkt. Med delovnim
+procesom se nepretrgoma prenaša na produkt ne le vred-
+nost potrošene delovne sile, ampak tudi presežna vrednost;
+vendar na nedogotovljen produkt, ki še nima oblike dogo-
+tovljenega blaga, ki torej še ni sposoben za cirkulacijo. Isto
+velja za vrednost kapitala, ki se kos za kosom prenaša s
+surovin in pomožnih tvarin na produkt.
+
+Skladno z daljšim ali krajšim trajanjem delovnega ob-
+dobja, ki ga zahteva posebna narava produkta ali name-
+ravanega koristnega učinka za svojo izdelavo, je potrebno
+nepretrgoma izdajati dodatni cirkulirajoči kapital (mezda,
+surovine in pomožne tvarine). Noben njegov del nima
+oblike, v kateri bi lahko cirkuliral in tako služil za obno-
+vitev iste operacije. Nasprotno, vsak del se kot sestavni del
+nastajajočega produkta zaporedoma zasidra v produkcij-
+skem področju, priveže v obliki produktivnega kapitala.
+Čas obrata pa je enak vsoti produkcijskega časa in cirku-
+lacijskega časa kapitala. Podaljšanje produkcijskega časa
+zato prav tako zmanjša hitrost obračanja, kakor jo podalj-
+šanje cirkulacijskega časa. V obravnavanem primeru pa je
+treba pripomniti dvoje:
+
+Prvič: podaljšano zadrževanje v produkcijskem pod-
+ročju. Kapital, ki ga na primer prvi teden založe v delo,
+surovine itd., kakor tudi deli vrednosti, ki jih odda fiksni
+kapital produktu, ostanejo v vsem razdobju treh mesecev
+priklenjeni na produkcijsko področje in zato, ker so pri-
+pojeni šele nastajajočemu, še nedokončanemu produktu, ne
+morejo preiti kot blago v cirkulacijo.
+
+Drugič: ker traja za produkcijski akt potrebno delov-
+no obdobje tri mesece, ker je dejansko nepretrgan delovni
+proces, je treba stalno vsak teden dodajati nov obrok cir-
+kulirajočega kapitala prejšnjim. Množina dodatnega kapi-
+tala, ki se zaporedoma zalaga, narašča torej z dolgostjo
+delovnega obdobja.
+
+Rekli smo, da so naloženi v predilnico in izdelavo stro-
+jev enako veliki kapitali, da se delijo ti kapitali v enako
+velikih razmerjih na konstantni in variabilni kapital, prav
+tako na fiksni in cirkulirajoči, da so delovni dnevi enako
+
+ 
+12. Delovno obdobje 259
+
+ 
+
+dolgi, skratka, da so enake vse okoliščine razen trajanja
+delovnega obdobja. V prvem tednu je treba založiti v obe
+enako velika kapitala. Predilčev produkt pa se lahko proda
+in z izkupičkom nabavijo nova delovna sila in nove suro-
+vine itd., skratka, produkcija se lahko nadaljuje v istem
+obsegu. Nasprotno pa lahko povrne tovarnar stroja v prvem
+tednu izdani cirkulirajoči kapital v denar in z njim znova
+deluje šele po treh mesecih, po dogotovitvi svojega pro-
+dukta. Prvič imamo torej razliko v času, v katerem se vrne
+ista količina založenega kapitala. Drugič pa: v teku treh
+mesecev se uporablja v predilnici in v gradnji strojev
+enako velik produktivni kapital. Velikost založenega kapi-
+tala pa je za predilca in izdelovalca strojev popolnoma
+različna, ker se v enem primeru isti kapital hitro obnavlja
+in se zato ista operacija lahko znova ponovi, v drugem pa
+se obnavlja razmeroma počasi in se morajo zato do časa
+njegove obnove stalno dodajati nove količine kapitala.
+Različno dolg je torej tako čas, v katerem se obnove dolo-
+čeni deli kapitala, ali čas, za katerega se založe, kakor tudi
+množina kapitala (čeprav je dnevno ali tedensko uporab-
+ljeni kapital isti), ki ga je treba založiti v skladu z dolgostjo
+delovnega procesa. To okoliščino je treba pomniti zato,
+ker se lahko trajanje založitve v nekaterih primerih, npr.
+v primerih, ki jih bomo obravnavali v naslednjem po-
+glavju, podaljša, množina kapitala, ki ga je treba zalo-
+žiti, pa zaradi tega ne naraste sorazmerno S trajanjem zalo-
+žitve. Kapital mora biti založen za dalj časa in večja koli-
+čina kapitala je vezana v obliki produktivnega kapitala.
+
+Na manj razvitih stopnjah kapitalistične produkcije
+podjetij, ki zahtevajo dolgo delovno obdobje, torej veliko
+za daljši čas naloženega kapitala, posebno če lahko obratu-
+jejo le v velikem obsegu, ali sploh ne vodijo na kapitalistič-
+ni način, kakor na primer ceste, kanali itd., ki jih gradijo
+na občinske ali državne stroške (v starejših časih pretežno
+s prisilnim delom, kolikor je šlo za delovno silo); ali pa
+takšne produkte, katerih izdelava zahteva daljše delovno
+obdobje, producirajo le v najmanjši meri s kapitalistovim
+premoženjem. Pri gradnji hiš plačuje na primer zasebnik,
+
+ 
+
+ 
+260 Il. Obrat kapitala
+
+ 
+
+za katerega se gradi hiša, stavbeniku predujme v obrokih.
+Hišo plača torej v resnici po kosih, tako kot napreduje njen
+produkcijski proces. V razviti kapitalistični dobi, ko so po
+eni strani koncentrirani v rokah posameznikov veliki kapi-
+tali, po drugi strani pa se pojavi poleg posameznega kapi-
+talista združeni kapitalist (delniške družbe) in je hkrati
+razvit tudi kreditni sistem, pa gradi kapitalistični stavbe-
+nik samo še izjemoma po naročilu za posamezne zasebnike.
+Kupčije dela tako, da zida celo vrsto hiš in mestnih četrti
+za trg, podobno kakor delajo kupčije posamezni kapitalisti,
+ki gradijo železnice kot gradbeni zakupniki.
+
+Izjave nekega stavbenika pred bančnim odborom iz
+1857 nam pojasnijo, kako je kapitalistična produkcija kore-
+nito spremenila zidavo hiš v Londonu. V njegovi mlado-
+sti, je dejal, so zidali hiše večinoma po naročilu in naroč-
+nik je stavbeniku plačeval znesek med zidanjem v obrokih,
+po dogotovitvi določenih gradbenih stopenj. Za špekula-
+cijo so gradili le malo. Podjetniki so zidali za špekulacijo
+v glavnem samo zato, da bi svoje delavce redno zaposlili
+in tako obdržali skupaj. V zadnjih 40 letih se je vse to
+spremenilo. Po naročilu zidajo le zelo malo. Kdor potrebuje
+hišo, si jo izbere med tistimi, ki so bile sezidane za špeku-
+lacijo ali pa so še v gradnji. Podjetnik ne dela več za
+stranke, ampak za trg. Prav tako kot vsak drug industria-
+lec mora imeti na trgu že gotovo blago. Medtem ko je zi-
+dal podjetnik prej mogoče tri ali štiri hiše hkrati za špe-
+kulacijo, mora kupiti sedaj obširno zemljišče (v kontinen-
+talnem načinu izražanja pomeni to najeti za največ 99 let),
+postaviti na njem do 100 ali 200 hiš in se tako spustiti v
+podjetje, ki presega njegovo premoženje za dvajset- do
+petdesetkrat. Sredstva si preskrbi z najetjem hipotekarnih
+posojil, denar pa dobiva v roke tako, kakor napreduje grad-
+nja posameznih hiš. Če nastane potem kriza, ki zaustavi
+plačevanje obrokov za posojila, propade navadno celo
+podjetje. V najboljšem primeru ostanejo hiše nedograjene
+do boljših časov, v najslabšem pa pridejo na dražbo in jih
+razprodajo po polovični ceni. Brez špekulantskih gradenj,
+in sicer v velikem obsegu, ne more danes več uspevati
+
+ 
+12. Delovno obdobje 261
+
+ 
+
+noben podjetnik. Dobiček od gradnje same je izredno maj-
+hen. Njegov glavni dobiček je v zviševanju zemljiške rente,
+v spretni izbiri in izkoriščanju gradbenih zemljišč. Po tej
+špekulantski poti, ki predvideva vnaprej povpraševanje po
+hišah, sta bili skoraj v celoti sezidani Belgravia in Tybur-
+nia ter nešteti tisoči vil okoli Londona. (Skrajšano iz »Report
+from the Select Committee on Bank Acts«, I. del, 1857, Pri-
+čevanja, Vprašanja 5413—18, 5455—-56.)
+
+Izvajanje del s posebno dolgimi delovnimi obdobji in
+velikim obsegom pripade kapitalistični produkciji popol-
+noma šele, ko je kapital že močno koncentriran, po drugi
+plati pa nudi razvoj kreditnega sistema kapitalistu udoben
+pripomoček za zalaganje in torej tudi tveganje tujega kapi-
+tala namesto lastnega. Samo po sebi pa je razumljivo, da
+vprašanje, ali pripada v produkcijo založeni kapital tiste-
+mu, ki ga uporablja ali ne, nima prav nobenega vpliva na
+hitrost obračanja in čas obrata.
+
+Okoliščine, ki povečujejo produkt posameznega delov-
+nega dneva, kakor kooperacija, delitev dela, uporaba stro-
+jev, skrajšujejo hkrati delovno obdobje pri sklenjenih
+produkcijskih aktih. Tako skrajšujejo stroji čas grajenja
+hiš, mostov itd.; kosilnice, mlatilnice ipd. skrajšujejo de-
+lovno obdobje, ki je potrebno, da se spremeni dozorelo žito
+v izgotovljeno blago. Izboljšave v ladjedelništvu, ki poveču-
+jejo hitrost ladij, skrajšujejo čas obrata v ladjarstvo založe-
+nega kapitala. Te izboljšave, ki skrajšujejo delovno obdobje
+in s tem čas, za katerega se mora založiti cirkulirajoči kapital,
+so pa največkrat združene s povečanim zalaganjem fiksnega
+kapitala. Po drugi strani pa se v nekaterih panogah lahko
+delovno obdobje skrajša že z razširjeno kooperacijo; želez-
+nico je mogoče zgraditi hitreje tako, da se zberejo velike
+armade delavcev in da se zastavi delo na različnih mestih.
+Tu se skrajšuje čas obrata z naraščanjem založenega kapi-
+tala. Več produkcijskih sredstev in več delovne sile se mora
+združiti pod kapitalistovo oblastjo.
+
+Če je zato skrajšanje delovnega obdobja največkrat
+združeno s povečanjem kapitala, založenega za krajši čas,
+tako da se v isti meri, v kateri se skrajša čas založitve,
+
+ 
+
+ 
+262 II. Obrat kapitala
+
+ 
+
+poveča množina kapitala, ki jo je treba založiti — je treba
+tu opozoriti, da je ne glede na obstoječo množino druž-
+benega kapitala to odvisno od vprašanja, v kakšni meri so
+produkcijska sredstva in življenjske potrebščine oziroma
+odločanje o njih razdrobljena ali združena v rokah individu-
+alnih kapitalistov, kakšen obseg je torej že dosegla koncentra-
+cija kapitalov. V isti meri, v kateri kredit omogoča, pospešu-
+je in stopnjuje koncentracijo kapitala v eni roki, prispeva
+k skrajševanju delovnega obdobja in s tem časa obrata.
+
+V produkcijskih panogah, v katerih predpisujejo de-
+lovno obdobje, bodisi sklenjeno ali pretrgano, kakšni na-
+ravni pogoji, ga ni mogoče skrajšati z nobenim od zgoraj
+navedenih sredstev. »Izraza ,hitrejši obrat' ni mogoče upo-
+rabiti za žetev žita, ker je mogoč samo en obrat letno.
+Glede živine pa bi kratko malo vprašali: »Kako je mogoče
+pospešiti obrat dve- in triletnih ovac ter štiri- in petletnih
+volov?« (W. Walter Good, »Political, Agricultural, and Com-
+mercial Fallacies«, London 1866, str. 325.)
+
+Nujnost priti prej do denarja (na primer za plačilo
+stalnih dajatev, kakor davkov, zemljiške rente itd.) rešuje
+to vprašanje s tem, da v veliko škodo poljedelstva npr.
+prodajajo in koljejo živino, preden doseže normalno eko-
+nomsko starost. To povzroča končno tudi zviševanje cen
+mesa. »Ljudje, ki so poprej redili živino pretežno zato, da
+so poleti izkoristili pašnike v Midland counties, pozimi pa
+staje v vzhodnih grofijah, ... so zaradi nihanj in padcev
+žitnih cen tako propadli, da so veseli, če lahko izkoriščajo
+visoke cene masla in sira; maslo prinašajo na trg vsak
+teden, da poravnajo tekoče izdatke; na sir vzamejo pred-
+ujme od agenta, ki prevzema sir, kakor hitro je sposoben
+za prevoz, in ki seveda sam določi ceno. Iz teh razlogov in
+ker vladajo poljedelstvu zakoni politične ekonomije, žrtvu-
+jejo sedaj teleta, ki so prihajala poprej iz mlekarskih ob-
+močij v rejo na jug, v velikih množinah v klavnicah Bir-
+minghama, Manchestra, Liverpoola in drugih sosednih vele-
+mest pogosto že, ko imajo komaj osem do deset dni. Če pa
+bi bil slad neobdavčen, bi napravili zakupniki ne samo več
+dobička in bi lahko obdržali svojo mlado živino, dokler
+
+ 
+12. Delovno obdobje 263
+
+ 
+
+bi ne bila starejša in težja, ampak bi ljudje, ki nimajo
+krav, slad lahko porabili namesto mleka tudi za rejo telet.
+Današnje strašno pomanjkanje mlade živine bi bilo v ve-
+liki meri preprečeno. Če sedaj nasvetujemo tem malim
+ljudem, naj redijo teleta, pravijo: ,Prav dobro vemo, da
+bi se reja z mlekom izplačala. Morali pa bi, prvič, založiti
+denar, česar ne moremo, in drugič, morali bi dolgo čakati,
+preden bi dobili nazaj svoj denar, medtem ko ga pri mle-
+karstvu dobimo nazaj takoj.« (Prav tam, str. 11, 12.)
+
+Če ima podaljšanje obrata takšne posledice že pri
+manjših angleških zakupnikih, je mogoče razumeti, kakšne
+motnje mora povzročiti pri malih kmetih na evropski celini.
+
+Ustrezno s trajanjem delovnega obdobja, torej tudi
+z obdobjem do dogotovitve za cirkulacijo sposobnega blaga,
+se kopiči del vrednosti, ki jo oddaja fiksni kapital plast
+za plastjo produktu, in se zavlačuje njen povratni tok.
+To zavlačevanje pa ne povzroča ponovne založitve fiks-
+nega kapitala. Stroj deluje še naprej v produkcijskem pro-
+cesu, najsi se nadomestitev njegove obrabe v denarni obliki
+vrača počasneje ali hitreje. Drugače je s cirkulirajočim
+kapitalom. Ne le da je treba založiti kapital sorazmerno
+s trajanjem delovnega obdobja za daljši čas, ampak je
+treba neprenehoma zalagati še nov kapital v mezdo, suro-
+vine in pomožne tvarine. Zakasnela vrnitev ima torej raz-
+ličen vpliv na enega in drugega. Najsi je vrnitev po-
+časnejša ali hitrejša, fiksni kapital deluje dalje. Na-
+sprotno pa postane cirkulirajoči kapital pri zakasneli
+vrnitvi nesposoben za delovanje, če obleži v obliki ne-
+prodanega ali nedogotovljenega produkta, ki ga še ni mo-
+goče prodati, in ni dodatnega kapitala, ki bi ga in natura
+obnovil. — »Medtem ko kmet umira od lakote, njegova
+živina uspeva. Precej je deževalo in krmna trava je bila
+bujna. Indijski kmet bo umrl od lakote poleg svojega reje-
+nega vola. Predpisi praznoverja se zde kruti nasproti posa-
+mezniku, omogočajo pa, da se preživi družba. Vzdrževanje
+delovne živine zagotavlja napredek poljedelstva in s tem
+vire za preživljanje in bogastvo v prihodnosti. Lahko da
+zveni surovo in žalostno, pa je tako: v Indiji je laže nado-
+
+ 
+264 II. Obrat kapitala
+
+ 
+
+mestiti človeka kakor vola.« (»Return, Fast India. Madras
+and Orissa Famine«, št. 4, str. 44.) Primerjajmo s tem stavek
+iz Manava-Dharma-Sastra, X. pogl., $ 62: »Žrtvovanje živ-
+ljenja brez nagrade v namenu, da bi se ohranil duhovnik
+ali krava... lahko zagotovi zveličanje teh nizko rojenih
+plemen.«
+
+Nemogoče je seveda dobaviti petletno žival pred kon-
+cem petih let. Kar pa se v določenih mejah da napraviti,
+je to, da se z drugačnim ravnanjem živina v krajšem času
+doredi, za kar je namenjena. Dobro je to uspelo zlasti
+Bakewellu. Prej angleške ovce, kakor francoske še leta
+1855, niso bile godne za zakol pred četrtim ali petim letom. Po
+Bakewellovem sistemu se lahko spita že enoletna ovca, v
+vsakem primeru pa popolnoma doraste pred potekom dru-
+gega leta. S skrbnim plemenskim izborom je skrčil Bake-
+well, zakupnik Dishley Grangea, okostje ovac na minimum.
+ki je potreben za njihov obstoj. Njegove ovce so imenovali
+New Leicesters. »Rejec lahko pošlje zdaj na trg v istem
+času, v katerem je poslal prej eno, tri ovce, "in to z debe-
+lejšimi, bolj okroglimi in močneje razvitimi mesnatimi deli.
+Skoraj vsa njihova teža je samo meso.« (Lavergne, »The
+Rural Economy of England ete.«, 1855, str. 20.)
+
+Načine, ki skrajšujejo delovno obdobje, je mogoče
+uporabiti v različnih industrijskih panogah le v zelo raz-
+ličnih obsegih in ne izravnajo razlik v trajanju različnih
+delovnih obdobij. Če hočemo ostati pri našem primeru,
+tedaj lahko uporaba novih orodnih strojev absolutno skrči
+za izdelavo ene lokomotive potrebno delovno obdobje. Če
+pa .se zaradi izboljšanih procesov v predilnici pomnoži
+dnevno ali tedensko dobavljani dogotovljeni produkt še veli-
+ko hitreje, se dolgost delovnega obdobja v tovarni strojev ven-
+dar relativno poveča v primerjavi s predilnico.
+
+ 
+

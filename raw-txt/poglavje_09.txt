@@ -1,0 +1,329 @@
+Deveto poglavje
+
+CELOTNI OBRAT ZALOŽENEGA KAPITALA.
+CIKLUSI OBRATOV
+
+Videli smo, da se obračata fiksni in tekoči sestavni
+del produktivnega kapitala različno in v različnih obdob-
+jih, prav tako pa, da se obračajo skladno z razlikami v
+svojih življenjskih in zato reprodukcijskih dobah različno
+dolgo tudi različni sestavni deli fiksnega kapitala v istem
+podjetju. (O dejanski ali navidezni različnosti v obratu
+različnih sestavnih delov tekočega kapitala v istem pod-
+jetju glej na koncu tega poglavja pod 6.)
+
+1. Celotni obrat založenega kapitala je povprečni obrat
+njegovih različnih sestavnih delov; o načinu izračunavanja
+kasneje. Kolikor gre le za različna razdobja, seveda ni nič
+preprostejšega kot ugotoviti njihovo povprečje; toda:
+
+0. ta razlika ni samo količinska, ampak tudi kako-
+vostna.
+
+Tekoči kapital, ki pride v produkcijski proces, pre-
+nese vso svojo vrednost na produkt in ga je treba zato
+s prodajo produkta neprestano obnavljati in natura, da
+lahko poteka produkcijski proces brez prekinitve. Fiksni
+kapital, ki pride v produkcijski proces, prenese na produkt
+samo del svoje vrednosti (obrabo) in kljub obrabi še naprej
+deluje v produkcijskem procesu; in natura ga je treba
+torej obnavljati le po krajših ali daljših presledkih, nika-
+kor ne tako pogosto kot tekoči kapital. Ta nujnost obnove,
+reprodukcijski rok, ni za različne sestavne dele fiksnega
+kapitala različna samo količinsko. Kot smo videli, se lahko
+del dolgotrajnega, več let trajajočega fiksnega kapitala
+obnovi letno ali v krajših razdobjih in pripoji in natura
+
+ 
+
+ 
+204 Il. Obrat kapitala
+
+ 
+
+staremu fiksnemu kapitalu. Fiksni kapital druge vrste pa
+se lahko obnovi samo naenkrat na koncu svoje življenj-
+ske dobe.
+
+Potemtakem je treba reducirati posebne obrate različ-
+nih delov fiksnega kapitala na enakovrstno obliko obrata,
+tako da se razlikujejo samo še kvantitativno, glede na
+trajanje obrata.
+
+Takšne kakovostne enakovrstnosti ne dosežemo, če vza-
+memo za izhodišče P... P — obliko nepretrganega produk-
+cijskega procesa. Nekatere elemente P je treba namreč ob-
+navljati stalno in natura, drugih pa ne. Pač pa omogoča to
+enakovrstnost obrata oblika D — D'. Vzemimo za zgled stroj
+z vrednostjo 10.000 f. št., ki traja 10 let, od katerega se torej
+spremeni nazaj v denar vsako leto !/1o <— 1000 f. št. Teh
+1000 f. št. se je v teku enega leta spremenilo iz denarnega
+kapitala v produktivnega in v blagovnega, iz tega pa nazaj
+v denarnega. Povrnili so se tako v svojo izhodiščno denarno
+obliko tako, kot se povrne tekoči kapital, če ga gledamo v
+tej obliki. Pri tem je vseeno, ali se denarni kapital 1000
+f. št. na koncu leta spremeni nazaj v naturalno obliko stro-
+ja ali ne. Pri izračunavanju celotnega obrata založenega
+produktivnega kapitala fiksiramo torej vse njegove ele-
+mente v denarno obliko, tako da vrnitev v denarno obliko
+sklene obrat. Vrednost vzamemo vedno, kakor da je bila
+založena v denarju, celo pri nepretrganem produkcijskem
+procesu, kjer je ta denarna oblika vrednosti samo obračun-
+skega značaja. Tako lahko potem ugotovimo povprečje.
+
+3. Iz tega izhaja, da je celo v primeru, da sestoji odločno
+večji del založenega produktivnega kapitala iz fiksnega,
+katerega reprodukcijska doba, in torej tudi čas obrata, ob-
+sega večleten ciklus, vrednost kapitala, ki se obrne v teku
+leta, vendar lahko večja kot celotna vrednost založenega
+kapitala. To zato, ker tekoči kapital med letom ponavlja
+svoje obrate.
+
+Recimo, da znaša fiksni kapital 80.000 f. št., njegova re-
+produkcijska doba 10 let, tako da se povrne letno 8000 f£. ši.
+
+ 
+9. Celotni obrat založenega kapitala. Ciklusi obratov 205
+
+ 
+
+tega kapitala nazaj v svojo denarno obliko, kar pomeni, da
+opravi 1/1 svojega obrata. Tekoči kapital je enak 20.000 f. št.
+in naj se obrne petkrat na leto. Celotni kapital je potem
+enak 100.000 f. št. Obrnjeni fiksni kapital je enak 8000 f. št.;
+obrnjeni tekoči kapital znaša 5 X 20.000 — 100.000 f. št. To-
+rej znaša v teku leta obrnjeni kapital 108.000 f. št., za 8000
+f. št. več, kot znaša založeni kapital. Obrnilo se je 1 -- ž/as
+kapitala.
+
+4. Obrat vrednosti založenega kapitala se torej razlikuje
+od njegove resnične reprodukcijske dobe ali od dejanskega
+časa obrata njegovih sestavnih delov. Vzemimo, da se ka-
+pital 4000 f. št. obrne petkrat na leto. Obrnjeni kapital
+znaša potem 5 X 4000 — 20.000 f. št. To, kar se povrne na
+kraju vsakega obrata, da bi bilo znova založeno, pa je na
+začetku založeni kapital v znesku 4000 f. št. Njegova veli-
+kost se ne spremeni s številom obratnih obdobij, v katerih
+ponovno deluje kot kapital (ne upoštevaje presežno vred-
+nost).
+
+V primeru pod 3 se je na koncu leta vrnila po pred-
+postavki v roke kapitalista torej a) vsota vrednosti 20.000
+f. št., ki jo znova naloži v tekoče sestavne dele kapitala,
+in b) vsota 8000 f. št., ki se je zaradi obrabe odločila od
+vrednosti založenega fiksnega kapitala. Pri tem je v pro-
+dukcijskem procesu slej ko prej še nadalje isti fiksni ka-
+pital, samo da z zmanjšano vrednostjo 72.000 f. št. namesto
+80.000 f. št. Produkcijski proces bi se moral torej nadalje-
+vati še devet let, da bi založeni fiksni kapital prenehal
+živeti in delovati tako kot tvorec produktov kakor tudi kot
+tvorec vrednosti in da bi ga bilo treba nadomestiti. Zalo-
+žena vrednost kapitala mora torej opisati ciklus obratov,
+v našem primeru na primer ciklus desetih letnih obratov —
+ta ciklus pa določa življenjska doba, torej reprodukcijska
+doba ali čas obrata uporabljanega fiksnega kapitala.
+
+V isti meri, kakor se z razvojem kapitalističnega načina
+produkcije razvijata obseg vrednosti in življenjska doba
+uporabljanega fiksnega kapitala, se torej razvija življenje
+industrije in industrijskega kapitala v vsaki posebni na-
+
+ 
+
+ 
+
+ 
+
+ 
+206 II. Obrat kapitala
+
+ 
+
+ložbi in traja več let, recimo povprečno deset let. Če z ene
+strani razvoj fiksnega kapitala podaljšuje to življenje, ga
+z druge nenehno revolucioniranje produkcijskih sredstev,
+ki prav tako stalno narašča z razvojem kapitalističnega na-
+čina produkcije, skrajšuje. Odtod stalno spreminjanje pro-
+dukcijskih sredstev in neizbežnost, da jih zaradi moralne
+obrabe neprestano zamenjujejo z novimi dosti prej, pre-
+den fizično dotrajajo. Lahko vzamemo, da traja sedaj ta
+življenjski ciklus v najbolj odločilnih panogah velike in-
+dustrije povprečno deset let. Vendar tu ni važno določeno
+število. Jasno pa je tole: ta ciklus med seboj povezanih
+obratov, ki obsega vrsto let, v katerih je privezan kapital
+s svojim fiksnim sestavnim delom, daje materialno podlago
+periodičnih kriz, v katerih preživlja gospodarstvo zapo-
+redna obdobja zastoja, srednje živahnosti, prenagljenosti,
+krize. Res je, da so obdobja, v katerih se nalaga kapital,
+zelo različna in se križajo. Vendar pa je kriza vedno izho-
+dišče za veliko novo naložbo in zato tudi — z vidika ce-
+lotne družbe — bolj ali manj novo materialne podlago za
+naslednji ciklus obratov.??a
+
+5. O načinu izračunavanja obrata naj spregovori ame-
+riški ekonomist.
+
+»V nekaterih poslovnih panogah se založeni kapital v
+enem letu večkrat obrne ali opravi več krožnih tokov; v
+drugih se obrne kakšen del več ko enkrat v letu, drug del
+pa ne tako pogosto. Kapitalist mora izračunati svoj dobiček
+po povprečnem razdobju, ki ga potrebuje njegov celotni
+kapital, da gre skozi njegove roke ali da se enkrat obrne.
+Vzemimo, da je kdo naložil v določenem podjetju polovico
+svojega kapitala v zgradbe in stroje, ki se obnavljajo en-
+krat v desetih letih, četrtino kapitala v orodja itd., ki se ob-
+navljajo vsaki dve leti, zadnja četrtina, založena v mezde in
+
+a >Mestna produkcija je vezana na zaporedje dni, podeželska
+pa na zaporedje let.« (Adam H. Miiller, »Die Elemente der Staats-
+kunst«, Berlin 1809, III, str. 178.) To je otroška podoba, ki jo ima
+romantika o industriji in poljedelstvu.
+
+ 
+9. Celotni obrat založenega kapitala. Ciklusi obratov 207
+
+ 
+
+surovine, se obrne dvakrat na leto. Ves njegov kapital znaša,
+recimo, 50.000 dolarjev. Njegov letni izdatek je tedaj:
+
+ZEN — 25.000 dolarjev v 10 letih — 2.500 dolarjev na leto
+2
+
+50.000 — 12.500 dolarjev v 2 letih — 6.250 dolarjev na leto
+4
+
+20000 43500 dolarjev v X leta — 25.000 dolarjev na jeio
+4
+
+ 
+
+na leto — 53.750 dolarjev
+
+Povprečni čas, v katerem se njegov celotni kapital en-
+krat obrne, je 18 mesecev"... Vzemimo drug primer: četr-
+tina celotnega kapitala v znesku 50.000 dolarjev cirkulira
+10 let, četrtina 1 leto, preostala polovica pa dvakrat v letu.
+Letni izdatek znaša tedaj:
+
+12.500
+
+—— — 1.250 dolarjev
+10
+
+12.500 — 12.500 dolarjev
+
+25.000 X 2 — 50.000 dolarjev
+
+V enem letu se obrne <— 63.750 dolarjev.<«
+(Scrope, »Political Economy«, izd. Alonzo Potter, New York
+1841, str. 142, 145.)
+
+6. Dejanske in navidezne razlike v obratu različnih delov
+kapitala. — Isti Serope pravi na istem mestu: »Kapital, ki
+ga založi tovarnar, poljedelec ali trgovec v plačilo mezd,
+cirkulira najhitreje, ker ga obrnejo tedenski dohodki iz
+njegovih prodaj ali plačanih računov morda tudi enkrat na
+teden, če plačuje svoje ljudi tedensko. V surovine ali go-
+tove izdelke zaluženi kapital ne cirkulira tako hitro; obrne
+se lahko dvakrat ali štirikrat na leto, skladno s časom, ki
+mine med nakupom enih in prodajo drugih, predpostavlja-
+joč, da kupuje in prodaja na enak kreditni rok. Kapital
+v orodjih in strojih cirkulira še počasneje, ker se povprečno
+
+ 
+
+" V izvirniku 16 mesecev, kar je očitna napaka. Tudi 18 me-
+secev je samo približno . — Op. prev.
+
+ 
+
+ 
+208 TI. Obrat kapitala
+
+ 
+
+obrne, to se pravi konsumira in obnovi, morda samo enkrat
+v petih ali desetih letih, čeprav se nekatera orodja izrabijo
+že v eni sami seriji operacij. Kapital, ki je založen v zgrad-
+be, na primer tovarne, trgovine, skladišča, skednje, v ceste,
+namakalne naprave itd., cirkulira skoraj neopazno. V res-
+nici pa se tudi te naložbe pri sodelovanju v produkciji prav
+tako popolnoma izrabijo kot prej navedene in jih je treba
+reproducirati, da producent lahko nadaljuje svoje opera-
+cije. Z edino razliko, da se konsumirajo in reproducirajo
+počasneje kot :druge... Vanje naloženi kapital se obrne
+morda šele v 20 ali 50 letih.«
+
+Serope pomeša tu različnost v toku nekaterih delov
+krožečega kapitala, ki jo povzročajo za posameznega ka-
+pitalista plačilni roki in kreditne okoliščine, z obrati, ki
+izhajajo iz narave kapitala. Pravi, da se mora plačati mezda
+tedensko s tedenskimi dohodki iz plačanih prodaj ali raču-
+nov. Pri tem moramo, prvič, pripomniti, da nastanejo Že pri
+mezdi razlike zaradi neenako dolgih plačilnih rokov, se
+pravi zaradi neenake dolgosti časa, v katerem mora delavec
+kreditirati kapitalistu, torej glede na to, ali je plačilni rok
+mezde tedenski, mesečni, trimesečni, polletni itd. Tu velja
+prej ugotovljeni zakon: »Potrebna množina plačilnih sred-
+stev (torej denarnega kapitala, ki ga je treba založiti na-
+enkrat) je v premem" sorazmerju z dolgostjo plačilnih ob-
+dobij.« (I. knjiga, 5. poglavje, 3 b, str. 160.)
+
+Drugič: v tedenski produkt prehaja ne samo celotna
+nova vrednost, ki jo dodaja tedensko delo med njegovo
+produkcijo, ampak prav tako tudi vrednost za tedenski pro-
+dukt porabljenih surovin in pomožnih tvarin. S produktom
+cirkulira vrednost, ki jo vsebuje. S prodajo tega produkta
+pridobi denarno obliko in se mora na novo spremeniti v
+iste produkcijske elemente. To velja prav tako za delovno
+silo kakor za surovine in pomožne tvarine. Videli pa smo
+že (6. poglavje, II, 1), da zahteva nepretrganost produk-
+cije zalogo produkcijskih sredstev, ki je različna za različ-
+
+" V prvi in drugi izdaji izvirnika l. knjige napačno natisnje-
+no: obratnem. V slovenskem prevodu je med korekturami po po-
+moti izpadla pojasnilna opomba pod črto. — Op. uredn.
+
+ 
+ 
+
+9. Celotni obrat založenega kapitala. Ciklusi obratov 209
+
+ 
+
+ne poslovne panoge, v isti poslovni panogi pa spet različna
+za različne sestavne dele tega elementa cirkulirajočega ka-
+pitala, na primer za premog in bombaž. Čeprav je treba te
+elemente neprenehoma nadomeščati in natura, jih za to ni
+treba neprenehoma na novo kupovati. Kako pogosto jih je
+treba kupovati na novo, je odvisno od velikosti naložene
+zaloge, od tega, kako dolgo traja, preden se izčrpa. Pri
+delovni sili nimamo takšnih naložb v zalogo. Tisti del ka-
+pitala, ki je založen v delo, se spreminja nazaj v denar z
+roko v roki s tistim, ki je založen v pomožne tvarine in su-
+rovine. Povratna sprememba denarja na eni strani v delov-
+no silo, na drugi v surovine pa poteka ločeno. Razlog so
+posebni kupni in plačilni roki obeh sestavnih delov, od ka-
+terih se kupuje eden kot produktivna zaloga na daljša raz-
+dobja, drugi, delovna sila, na krajša, na primer tedensko.
+Na drugi strani mora imeti kapitalist poleg produkcijske
+zaloge zalogo gotovega blaga. Pustimo na strani težave s
+prodajo itd. Vzemimo, da je treba izdelati določeno mno-
+žino po naročilu. Medtem ko se izdeluje njen zadnji del,
+čaka že dogotovljeni v skladišču do časa, ko se lahko izpol-
+ni naročilo v celoti. Druge razlike v obratu tekočega ka-
+pitala nastanejo, če se morajo zadrževati posamezni nje-
+govi elementi dalj časa v kakšni pripravljalni stopnji pro-
+dukcijskega procesa (sušenje lesa itd.) kakor drugi.
+Kreditni sistem, ki ga tu upošteva Šcrope, kakor tudi
+trgovinski kapital spremenita obrat za posameznega kapi-
+talista. V družbenem merilu ga spremenita samo, če ne po-
+spešujeta le produkcije, ampak tudi konsumpcijo.
+
+14 — Kapital IL.
+
+ 
+
+ 
+

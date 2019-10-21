@@ -1,0 +1,1485 @@
+Šestnajsto poglavje
+OBRAT VARIABILNEGA KAPITALA
+
+I. Letna mera presežne vrednosti
+
+Predpostavimo cirkulirajoči kapital 2500 f. št., in sicer
+štiri petine ali 2000 f. št. konstantnega kapitala (produkcij-
+skih tvarin) in eno petino ali 500 f. št. variabilnega, v mezde
+založenega kapitala.
+
+Obdobje obrata <— 5 tednov, delovno obdobje — 4 tedne,
+cirkulacijsko obdobje < 1 teden. Kapital i je potem enak
+2000 f. št. in sestoji iz 1600 f. št. konstantnega kapitala in
+400 f. št. variabilnega. Kapital II je enak 500 f. št., od česar
+je 400 f. št. konstantni in 100 f. št. variabilni kapital. Vsak
+delovni teden se založi kapital 500 f. št. V 50-tedenskem letu
+se izgotovi letni produkt 50 X 500 — 25.000 f. št. Kapital I v
+znesku 2000 f. št., ki se stalno uporablja v enem delovnem
+obdobju, se obrne torej 12 !/2-krat. 12 1/2 X 2000 — 25 000. Od
+teh 25 000 f. št. je 4/5 ali 20000 f. št. konstantni, v produk-
+cijskih sredstvih založeni kapital in !/s ali 5000 f. št., varia-
+bilni, v mezde založeni kapital. Celotni kapital 2500 f. št.
+
+znak — 10-krat.
+
+ 
+
+pa se obrne
+
+Variabilni cirkulirajoči kapital, ki se porabi med pro-
+dukcijo, lahko znova služi v cirkulacijskem procesu samo,
+če se produkt, v katerem je reproducirana njegova vrednost,
+proda, spremeni iz blagovnega kapitala v denarnega, da bi
+bil znova založen v plačilo delovne sile. Prav tako pa je
+s konstantnim v produkcijo založenim cirkulirajočim kapi-
+
+ 
+16. Obrat variabilnega kapitala 327
+
+ 
+
+ialom (produkcijskimi tvarinami), katerega vrednost se
+znova pojavlja kot del vrednosti v produktu. Kar je skupno
+tema dvema deloma kapitala — variabilnemu in konstant-
+nemu delu cirkulirajočega kapitala — in kar ju razlikuje
+od fiksnega kapitala, ni okoliščina, da njuno na produkt
+preneseno vrednost cirkulira blagovni kapital, se pravi, da
+jo cirkulira cirkulacija produkta kot blaga. Del vrednosti
+produkta in zato produkta, ki cirkulira kot blago, blagov-
+nega kapitala, sestoji zmerom iz obrabe fiksnega kapitala
+ali iz tistega dela vrednosti fiksnega kapitala, ki ga je med
+produkcijo prenesel na produkt. Razlika pa je ta: fiksni
+kapital v svoji stari uporabni obliki še nadalje deluje v
+produkcijskem procesu med daljšim ali krajšim ciklusom
+obdobij obrata cirkulirajočega kapitala (ki je enak cirkuli-
+rajočemu konstantnemu plus cirkulirajočemu variabilnemu
+kapitalu), medtem ko je odvisen vsak posamezni obrat od
+nadomestitve celotnega iz produkcijskega področja — v po-
+dobi blagovnega kapitala — v cirkulacijsko področje vsto-
+pivšega cirkulirajočega kapitala. Prva faza cirkulacije
+B'—D' je skupna tekočemu konstantnemu in tekočemu
+variabilnemu kapitalu. V drugi fazi se ločita. Del denarja,
+ki se vanj nazaj spremeni blago, se spremeni v produk-
+cijsko zalogo (cirkulirajoči konstantni kapital). Zaradi raz-
+ličnih nakupnih rokov svojih sestavnih delov se lahko spre-
+meni kakšen del prej, drug pa kasneje iz denarja v pro-
+dukcijske tvarine, nazadnje pa preide vanje v celoti. Drugi
+del denarja, iztržen s prodajo blaga, obleži kot denarna
+zaloga, da se nato postopoma potroši za plačevanje delovne
+sile, ki je vključena v produkcijski proces. Ta del tvori
+cirkulirajoči variabilni kapital. Kljub temu pa se nadomesti
+tako prvi kot drugi del vedno v celoti iz obrata kapitala,
+iz njegove spremembe v produkt, iz produkta v blago, iz
+blaga v denar. Iz tega razloga smo v prejšnjem poglavju ob-
+ravnavali obrat cirkulirajočega kapitala — konstantnega in
+variabilnega — posebej in skupaj ne glede na fiksni kapital.
+
+Za vprašanje, ki ga moramo obravnavati sedaj, moramo
+stopiti korak dalje in obravnavati variabilni del cirkulira-
+jočega kapitala, kakor da bi samo ta tvoril cirkulirajoči
+
+ 
+
+ 
+328 II. Obrat kapitala
+
+ 
+
+kapital. Se pravi, ne bomo upoštevali konstantnega cirkuli-
+rajočega kapitala, ki se obrača skupno z njim.
+
+Založenih je 2500 f. št., vrednost letnega produkta je
+enaka 25000 f. št. Variabilni del cirkulirajočega kapitala
+pa znaša 500 f. št. V 25 000 f. št. vsebovani variabilni kapi-
+
+tal je torej enak zam — 5000 f. št. Če delimo 5000 f. št. s
+
+500, dobimo število obratov 10, prav kakor pri celotnem
+kapitalu 2500 f. št.
+
+To računanje povprečja, pri katerem delimo vrednost
+letnega produkta z vrednostjo založenega kapitala in ne
+z vrednostjo tistega dela kapitala, ki se trajno uporablja
+v enem delovnem obdobju (v našem primeru torej ne s 400,
+ampak s 500, ne s kapitalom I, ampak s kapitalom I plus
+kapitalom II), je tu, kjer nas zanima le produkcija presežne
+vrednosti, popolnoma točno. Kasneje bomo videli, da z dru-
+gega vidika ni popolnoma natančno, kakor to računanje
+povprečja nasploh ni popolnoma natančno. Z drugo besedo,
+zadošča za praktične namene kapitalista, ne izraža pa na-
+tančno ali pravilno vseh stvarnih okoliščin obrata.
+
+Doslej se nismo prav nič menili za en del vrednosti
+blagovnega kapitala, namreč za presežno vrednost, ki tiči v
+njem, ki se producira med produkcijskim procesom in ki
+je utelešena v produktu. Nanjo moramo sedaj usmeriti
+našo pozornost.
+
+Vzemimo, da producira tedensko zalagani variabilni
+kapital 100 f. št. presežno vrednost v višini 100% ali 1
+f. št. Tedaj producira variabilni kapital 500 f. št., ki je za-
+ložen v pettedenskem obdobju obrata, presežno vrednost
+500 f. št. Polovica delovnega dneva sestoji torej iz presež-
+nega dela.
+
+Če pa producira 500 f. ši. variabilnega kapitala 500 f. št.
+presežne vrednosti, producira 5000 f. št. 10 X 500 — 5000 f. št.
+presežne vrednosti. Založeni variabilni kapital pa je enak
+500 f. št. Razmerje med celotno množino v teku leta produ-
+cirane presežne vrednosti in vsoto vrednosti založenega
+
+ 
+16. Obrat variabilnega kapitala 329
+
+ 
+
+variabilnega kapitala imenujemo letno mero presežne vred-
+
+1 z | ; 50
+nosti. V našem primeru je enaka H — 1000/6. Če podrob-
+
+ 
+
+neje razčlenimo to mero, se izkaže, da je enaka meri pre-
+sežne vrednosti, ki jo producira variabilni kapital v ob-
+dobju enega obrata, pomnoženi s številom obratov varia-
+bilnega kapitala (ki se ujema s številom obratov vsega cir-
+kulirajočega kapitala).
+
+V obdobju enega obrata založeni variabilni kapital je
+v našem primeru enak 500 f. št. V njem producirana pre-
+sežna vrednost je prav tako enaka 500 f. št. Mera presežne
+
+vrednosti v enem obdobju obrata je torej enaka Z -
+v
+— 100/0. Teh 100/0, pomnoženih z 10, številom obratov v
+
+5000 pv
+00 v
+To velja za letno mero presežne vrednosti. Kar pa za-
+deva množino presežne vrednosti, ki se doseže v določenem
+obdobju obrata, je enaka vrednosti v tem obdobju založe-
+
+nega variabilnega kapitala, v našem primeru 500 f. št., po-
+
+s m . : 100
+množenim z mero Presežne vrednosti, tu torej 500 X — <—
+
+100
+— 500 X 1 — 500 f. št. Če bi bil ob enaki meri presežne vred-
+nosti založeni kapital enak 1500 f. št., bi bila množina pre-
+
+sežne vrednosti enaka 1500 X EM — 1500 f. št.
+
+enem letu, da — 1000 %/o.
+
+Variabilni kapital 500 f£. št., ki se obrne desetkrat v letu,
+ki producira v enem letu presežno vrednost 5000 f. št. in za
+katerega je letna mera presežne vrednosti torej enaka 1000 %,
+bomo imenovali kapital A.
+
+Predpostavimo sedaj, da se založi drug variabilni kapi-
+tal B v znesku 5000 f. št. za celo leto (tj. v našem primeru
+za 50 tednov) in se obrne torej samo enkrat v letu. Dalje
+predpostavimo, da se plača produkt konec leta isti dan, ko
+je dokončan, da torej priteče denarni kapital, v katerega se
+spremeni, nazaj isti dan. Cirkulacijsko obdobje je torej tukaj
+
+ 
+
+ 
+330 . II. Obrat kapitala
+
+ 
+
+enako 0, obdobje obrata je enako delovnemu obdobju, nam-
+reč eno leto. Kakor v prejšnjem primeru, je v delovnem pro-
+cesu vsak teden variabilni kapital 100 f. št., v 50 tednih torej
+kapital 5000 f. št. Mera presežne vrednosti bodi nadalje ista,
+enaka 100%, kar pomeni, da sestoji — ob enako dolgem
+delovnem dnevu — polovica iz presežnega dela. Če raču-
+namo pet tednov, znaša naloženi variabilni kapital 500 £. št.,
+mera presežne vrednosti 100%/, v petih tednih producirana
+množina presežne vrednosti torej 500 f. št. Množina delovne
+sile, ki se tu izkorišča, in stopnja njenega izkoriščanja sta
+v tem primeru po predpostavki natančno enaki onima pri
+kapitalu A.
+
+Vsak teden producira naloženi variabilni kapital 100
+f. št. presežno vrednost 100 f. št., v petdesetih tednih produ-
+cira torej naloženi kapital 50 X 100 — 5000 f. št., presežno
+vrednost 5000 f. št. Množina letno producirane presežne
+vrednosti je ista kot v prejšnjem primeru, enaka 5000 f. št.,
+letna mera presežne vrednosti pa je popolnoma drugačna.
+Enaka je med letom producirani presežni vrednosti, deljeni
+
+Zag — 1009/0, med-
+v
+tem ko je bila prej za kapital A enaka 1000.9/s.
+
+Tako pri kapitalu A kakor tudi pri kapitalu B smo
+izdali tedensko 100 f. št. variabilnega kapitala. Stopnja veča-
+nja vrednosti ali mera presežne vrednosti je prav tako ista,
+enaka 100%. Tudi velikost variabilnega kapitala je ista,
+enaka 100 f. št. Izkorišča se enaka množina delovne sile,
+velikost in stopnja izkoriščanja sta v obeh primerih isti, dg:
+lovna dneva sta enaka in enako razdeljena na potrebno in
+presežno delo. Med letom uporabljena variabilna vsota kapi-
+tala je enako velika, enaka 5000 f. št., zaposli isto množino
+dela in izvleče iz delovne sile, ki sta jo zaposlila oba enaka
+si kapitala, enako množino presežne vrednosti, 5000 f. št.
+Vendar pa je med letno mero presežne vrednosti kapitala A
+in kapitala B razlika, ki znaša 900 9/0.
+
+Ta pojav naredi vsekakor vtis, da mera presežne vred-
+nosti ni odvisna samo od množine presežne vrednosti in stop-
+
+z založenim variabilnim kapitalom:
+
+ 
+16. Obrat variabilnega kapitala 331
+
+ 
+
+nje izkoriščanja delovne sile, ki jo zaposli variabilni kapital,
+ampak razen tega od nerazložljivih vplivov, izhajajočih iz
+cirkulacijskega procesa. V resnici so ta pojav tako razlagali
+im je povzročil, četudi ne v tej svoji čisti, ampak v svoji
+zapleteni in prikriti obliki (v obliki letne profitne mere),
+popolno zmedo v ricardovski šoli od začetka dvajsetin let
+dalje.
+
+Skrivnostnost tega pojava izgine, kakor hitro kapitala A
+in kapitala B ne postavimo v popolnoma iste okoliščine samo
+navidezno, ampak dejansko. Iste pa so okoliščine samo, če
+se izda ves variabilni kapital B za plačilo delovne sile v
+istem časovnem razdobju kakor kapital A.
+
+5000 f. št. kapitala B se potem izda v 5 tednih. 1000 f. št.
+na teden znaša na leto izdatek 50.000 f. ši. Presežna vrednost
+je zato po naši predpostavki prav tako enaka 50.000 f. št.
+Kapital, ki je dokončal obrat — 50.000 f. št., deljen z zalo-
+ženim kapitalom — 5000 f. št., da število obratov — 10. Mera
+
+ 
+
+J 5000 s s
+presežne vrednosti enaka z — 1009/0, pomnožena s šte-
+v
+vilom obratov — 10, da letno mero presežne vrednosti, ki je
+50.000 1 . H s
+enaka mpr Mb, 1000 %/0. Letni meri presežne vredno-
+
+ 
+
+5000 v 1
+sti sta torej zdaj enaki za A in za B, namreč 1000 9/0, množini
+presežne vrednosti pa sta: za B 50.000 f. št., za A 5000 f. št.
+Množini producirane presežne vrednosti sta sedaj v istem
+razmerju kakor založeni vrednosti kapitala A in B, namreč
+5000 : 500 — 10: 1. Zato pa je kapital B zaposlil v istem času
+desetkrat toliko delovne sile kakor kapital A.
+
+Kapital, ki producira presežno vrednost in za katerega
+veljajo vsi glede presežne vrednosti ugotovljeni zakoni, torej
+tudi zakon, po katerem določa pri dani meri množino pre-
+sežne vrednosti relativna velikost variabilnega kapitala, je
+samo tisti kapital, ki se dejansko uporablja v produkcijskem
+procesu.
+
+Delovni proces merimo s časom. Če je dolgost delovnega
+dneva dana (kot tu, kjer so vse okoliščine med kapitalom A
+in kapitalom B izenačene, da bi bolje osvetlili razliko v letni
+
+ 
+
+ 
+332 Il. Obrat kapitala
+
+ 
+
+meri presežne vrednosti), sestoji delovni teden iz določenega
+števila delovnih dni. Lahko pa štejemo katerokoli delovno
+obdobje, vzemimo za primer pettedensko, za en sam de-
+lovni dan, ki sestoji na primer iz 500 ur, če je delovni
+dan <— 10 ur in delovni teden — 6 delovnih dni. To število
+pa moramo pomnožiti še s številom delavcev, ki so zaposleni
+vsak dan istočasno v istem delovnem procesu. Če bi bilo to
+število na primer 10, bi imeli na teden 60 X 10 — 600 ur, v
+pettedenskem delovnem obdobju pa 600 X 5 <— 3000 ur. Pri
+enako visoki meri presežne vrednosti in pri enaki dolgosti
+delovnega dne se torej uporabljajo enako veliki variabilni
+kapitali, če zaposlijo v istih časovnih rokih enake množine
+delovne sile (ena delovna sila iste cene pomnožena z istim
+številom).
+
+Vrnimo se sedaj k našima prvotnima primeroma. V obeh
+primerih, A in B, se uporabita vsak teden v letu enako velika
+variabilna kapitala, po 100 f. št. na teden. Uporabljena, v
+delovnem procesu dejansko delujoča kapitala sta torej
+enaka, založena variabilna kapitala pa sta popolnoma raz-
+lična. Pod A se založi za vsakih pet tednov 500 f. št., od
+katerih se uporabi vsak teden 100 f. št. Pod B je treba zalo
+žiti za prvo pettedensko obdobje 5000 f. št., od katerih pa
+se uporabi na teden samo 100 f. št., v petih tednih torej
+samo 500 f. št., kar je 1/10 založenega kapitala. V drugem
+pettedenskem obdobju je treba založiti 4500 f. št., uporabi
+pa se samo 500 f. št., itd. Za določeno obdobje založeni varia-
+bilni kapital se spremeni v uporabljeni, torej dejansko delu-
+joči in učinkujoči variabilni kapital samo v tisti meri, v
+kateri dejansko vstopi v tiste odseke tega časovnega obdobfa,
+ki jih zavzema delovni proces, v kateri dejansko deluje v
+delovnem procesu. V vmesnem času, ko je del kapitala zalo-
+žen, da se uporabi šele v kasnejšem časovnem odseku, tega
+dela kakor da ni za delovni proces in nima zato nobenega
+vpliva niti na tvorjenje vrednosti niti na tvorjenje presežne
+vrednosti. Tako je na primer pri kapitalu A, ki znaša 500
+f. št. Založen je za pet tednov, vsak teden pa ga preide
+v delovni proces le 100 f. št. Prvi teden je uporabljenega
+1/5; štiri petine so založene, ne da bi bile uporabljene, čeprav
+
+ 
+16. Obrat variabilnega kapitala 333
+
+ 
+
+morajo biti pripravljene za delovne procese naslednjih štirih
+tednov in zaradi tega založene.
+
+Okoliščine, ki povzročajo razlike v razmerju med zalo-
+ženim in uporabljenim variabilnim kapitalom, vplivajo na
+produkcijo presežne vrednosti — če je mera presežne vred-
+nosti dana — le toliko in le tako, da spreminjajo količino
+variabilnega kapitala, ki se dejansko lahko uporabi v dolo-
+čenem časovnem razdobju, na primer v enem tednu, petih
+tednih itd. Založeni variabilni kapital deluje kot variabilni
+kapital samo, kolikor ga resnično uporabljamo in kadar ga
+resnično uporabljamo, ne pa v času, v katerem je pripravljen
+v zalogi, ga pa nihče ne uporablja. Vse okoliščine, ki po-
+vzročajo razlike v razmerju med založenim in uporabljenim
+variabilnim kapitalom, pa se izrazijo v razliki med obdobji
+obratov (najsi jo določa razlika v delovnem obdobju, v cir-
+kulacijskem obdobju ali pa v obeh). Zakon produkcije pre-
+sežne vrednosti se glasi, da ustvarjajo enake množine varia-
+bilnega kapitala ob enaki meri presežne vrednosti enake
+množine presežne vrednosti. Če torej uporabita kapitala A
+in B v enakih časovnih odsekih ob enakih merah presežne
+vrednosti enaki množini variabilnega kapitala, morata pro-
+ducirati v istih časovnih razdobjih enaki množini presežne
+vrednosti, najsi je razmerje med tem variabilnim kapitalom,
+ki se uporabi v določenem časovnem razdobju, in v istem
+časovnem razdobju založenim variabilnim kapitalom še tako
+različno in najsi je zato še tako različno tudi razmerje med
+produciranimi množinami presežne vrednosti in, ne uporab-
+ljenim, ampak sploh založenim variabilnim kapitalom. Na-
+mesto da bi razlike v tem razmerju nasprotovale zakonom,
+ki smo jih pokazali o produkciji presežne vrednosti, jih po-
+trjujejo in so njihova neizogibna posledica.
+
+Preglejmo prvi pettedenski produkcijski odsek kapi-
+lala B. Konec petega tedna je uporabljenih in porabljenih
+500 f. št. Producirana vrednost je enaka 1000 f. št., torej
+
+PI. 4000, Enaka kakor pri kapitalu A. To, da se pri
+
+kapitalu A realizira poleg založenega kapitala presežna
+
+ 
+
+ 
+534 Il. Obrat kapitala
+
+ 
+
+vrednost, pri B pa ne, nas tu, kjer nam gre le za produkcijo
+presežne vrednosti in za razmerje med njo in variabilnim »
+kapitalom, ki se založi med njeno produkcijo, še ne zanima.
+Če pa, nasprotno, ne izračunamo razmerja med presežno
+vrednostjo v B in tistim delom založenega kapitala 5000 f£. št.,
+ki se uporabi med njeno produkcijo in torej porabi, ampak
+
+500
+Bri — 109%. Torej
+5000 v 10
+
+za kapital B 10%0 in za kapital A 100%0, kar pomeni de-
+setkrat več. Če bi tu kdo rekel: »Ta razlika v meri pre-
+sežne vrednosti za enako velike kapitale, ki so zaposlili
+enako količino dela, in sicer dela, ki se deli v enakih delih
+na plačano in neplačano delo, nasprotuje zakonom o pro-
+dukciji presežne vrednosti«, bi bil odgovor preprost in bi
+ga dal en sam pogled na dejanska razmerja: v primeru A
+izraža razmerje med njima dejansko mero presežne vred-
+nosti, se pravi razmerje med presežno vrednostjo, ki jo pro-
+ducira v petih tednih variabilni kapital 500 f. št., in tem va-
+riabilnim kapitalom 500 f. št. V primeru B pa se računa
+na način, ki nima nič opraviti niti s produkcijo presežne
+vrednosti niti z določitvijo ustrezne ji mere presežne vred-
+nosti. Teh 500 f. št. presežne vrednosti, ki jih je produciral
+variabilni kapital 500 f. št., ni namreč preračunanih na 500
+f. št. variabilnega kapitala, ki je založen v času njihove
+produkcije, ampak na kapital 5000 f. št. Od tega kapitala
+nima %/10, 4500 f. št., nič opraviti s produkcijo te presežne
+vrednosti 500 f. št. Nasprotno, delovali bodo postopoma šele
+v teku naslednjih 45 tednov. Za produkcijo prvih petih
+tednov, katero edino obravnavamo tu, torej sploh ne oB-
+stoje. V tem primeru razlika v meri presežne vrednosti
+kapitala A in B torej ni noben problem.
+
+Primerjajmo sedaj letne mere presežne vrednosti za ka-
+pitala A in B. Za kapital B imamo o — 100%, za ka-
+
+0 v
+5000 pv
+
+ 
+
+tem založenim kapitalom, dobimo
+
+pital A
+
+ 
+
+— 1000 %. Razmerje mer presežnih vredno-
+
+0 v
+sti pa je isto kot poprej. Tam smo imeli:
+
+ 
+16. Obrat variabilnega kapitala 335
+
+ 
+
+mera presežne vrednosti kapitala B 10%
+
+ 
+
+mera presežne vrednosti kapitala A — 400 "o
+sedaj pa imamo:
+
+letna mera presežne vrednosti kapitala A 100%
+
+ 
+
+letna mera presežne vrednosti kapitalaB O 4000 %/o'
+
+10 9/ 100 9/ kem : s
+toda h se - , torej isto razmerje kot zgoraj.
+
+1009/5 1000 '%/o
+Problem pa se je sedaj obrnil. Letna mera kapitala
+
+ 
+
+ 
+
+5000 uli
+B: >?" — 100%, ne kaže prav nobenega odklona — niti
+5000 v
+več sledu odklona — od nam znanih zakonov o produkciji
+
+in njej ustrezni meri presežne vrednosti. Med letom je bilo
+založenih in produktivno konsumiranih 5000 v, producirali
+so 5000 pv. Mera presežne vrednosti je torej gornji ulo-
+
+5000 a
+mek —— P" — 1004/0. Letna mera se ujema z dejansko mero
+
+5000 v
+
+presežne vrednosti. To pot torej ni kapital B, tako kot prej,
+ampak kapital A tisti, ki kaže nepravilnost, katero je treba
+pojasniti.
+
+5000 pv
+500 v
+
+— 1000 %/0. Toda medtem ko smo v prvem primeru računali
+500 pv, produkt petih tednov, na založeni kapital 5000 f. št.,
+od katerega "%/1 ni bilo uporabljenih v njegovi produkciji,
+računamo sedaj 5000pv na 500v, tj. samo na !/1 varla-
+bilnega kapitala, ki je bil v resnici porabljen v produkciji
+5000 pv; kajti 5000 pv je produkt v petdesetih tednih pro-
+duktivno konsumiranega variabilnega kapitala v znesku 5000,
+ne pa kapitala v znesku 500 f. št., konsumiranega v enem
+samem pettedenskem obdobju.V prvem primeru smo raču-
+nali v teku petih tednov producirano presežno vrednost na
+kapital, ki je založen za petdeset tednov, ki je torej deset-
+krat večji kakor kapital, porabljen v času petih tednov.
+Sedaj pa računamo v teku petdesetih tednov producirano
+presežno vrednost na kapital, ki je založen za pet tednov,
+
+ 
+
+V primeru A imamo mero presežne vrednosti
+
+ 
+
+ 
+
+ 
+
+ 
+556 II. Obrat kapitala
+
+ 
+
+ki je torej desetkrat manjši kakor kapital, porabljen v pet-
+desetih tednih.
+
+Kapital A v znesku 500 f. št. se nikoli ne založi za več ko
+pet tednov. Na koncu teh petih tednov priteče nazaj in
+lahko obnovi z desetkratnim obratom desetkrat isti proces
+v teku leta. Iz tega izhaja dvoje:
+
+Prvič. V primeru A založeni kapital je samo petkrat
+večji kakor del kapitala, ki se stalno uporablja v produkcij-
+skem procesu enega tedna. Nasprotno pa je kapital B, ki se
+obrne le enkrat v petdesetih tednih, ki mora biti za petdeset
+tednov tudi založen, petdesetkrat večji kot tisti njegov del,
+ki se stalno uporablja v enem tednu. Obrat torej spremeni
+razmerje med kapitalom, ki je založen v produkcijski proces
+v teku leta, in kapitalom, ki se lahko stalno uporablja za do-
+ločeno produkcijsko obdobje, na primer teden dni. Tako
+pridobimo prvi primer, v katerem se pettedenska presežna
+vrednost ne računa na kapital, ki se uporabi v teh petih
+tednih, ampak na kapital, ki se uporabi v petdesetih tednih,
+ki je desetkrat večji.
+
+Drugič. Obdobje obrata kapitala A, ki znaša pet ted-
+nov, tvori samo !/1 leta. Leto obsega torej deset takšnih
+obdobij obrata, v katerih se kapital A v znesku 500 f. št.
+vedno znova uporabi. Uporabljeni kapital je pri tem enak
+za pet tednov založenemu kapitalu, pomnoženemu s števi-
+lom obdobij obrata v letu. Med letom uporabljeni kapital
+je enak 500 X 10 — 5000 f. št. Med letom založeni kapital
+
+0
+je enak O — 500 f. št. Čeprav se 500 f. št. uporabi vedno
+
+6
+znova, se vsakih pet tednov v resnici ne založi nikoli več ko
+istih 500 £. št. Pri kapitalu B se, na drugi strani, uporabi
+v petih tednih in založi za teh pet tednov sicer le 500 f. št.
+Ker pa je obdobje obrata enako tu 50 tednom, je v teku
+leta uporabljeni kapital enak kapitalu, ki se založi za 50,
+ne pa za 5 tednov. V letu dni producirana množina presežne
+vrednosti pa se ravna, če je mera presežne vrednosti dana,
+po kapitalu, ki se med letom uporabi, ne pa po kapitalu,
+ki se med letom založi. Za ta kapital v znesku 5000 f. št.,
+
+ 
+
+ 
+16. Obrat variabilnega kapitala 337
+
+ 
+
+ki opravi en sam obrat, torej ni večja kakor za kapital
+500 f. št., ki opravi deset obratov, in je samo zato tako
+velika, ker je kapital, ki opravi na leto en sam obrat, sam
+desetkrat večji kakor kapital, ki ima deset obratov v letu.
+
+Med letom obrnjeni variabilni kapital — torej tisti del
+letnega produkta ali tudi letne porabe, ki je enak temu
+delu — je v letu dni resnično uporabljeni, produktivno
+porabljeni variabilni kapital. Iz tega izhaja, da mora biti
+za oba enaka tudi letno producirana množina presežne
+vrednosti, če sta v letu obrnjeni variabilni kapital A in v letu
+obrnjeni variabilni kapital B enako velika in se uporab-
+ljata v enakih pogojih večanja vrednosti, če je torej mera
+presežne vrednosti za oba enaka. Torej mora biti za oba
+enaka tudi — ker so enake uporabljene množine kapitala
+— na leto računana mera presežne vrednosti, kolikor se
+izraža z razmerjem
+
+med letom producirana množina presežne vrednosti
+
+med letom obrnjeni variabilni kapital
+Ali, povedano bolj splošno: najsi je relativna velikost va-
+riabilnih kapitalov, ki so opravili obrat, takšna ali drugač-
+na, mero njihove v letu dni producirane presežne vrednosti
+določa mera presežne vrednosti, po kateri so ustrezni kapi-
+tali delali v povprečnih obdobjih (na primer v tedenskem
+ali tudi v dnevnem povprečju).
+
+To je edina posledica, ki izhaja iz zakonov o produk-
+ciji presežne vrednosti in o določitvi mere presežne vred-
+nosti.
+
+Sedaj poglejmo še, kaj izraža razmerje:
+
+med letom obrnjeni kapital
+založeni kapital
+(pri čemer upoštevamo, kot rečeno, samo variabilni kapital).
+Delitev nam da število obratov v enem letu založenega ka-
+pitala.
+Za kapital A imamo:
+5000 f. št. med letom obrnjenega kapitala
+
+500 f. št. založenega kapitala
+
+ 
+
+ 
+
+ 
+
+»
+
+za kapital B:
+22 — Kapital II.
+
+ 
+
+ 
+558 IL. Obrat kapitala
+
+ 
+
+5000 f. št. med letom obrnjenega kapitala
+5000 f. št. založenega kapitala
+
+ 
+
+V obeh razmerjih izraža števec založeni kapital, pomno-
+žen s številom obratov: za A 500 X 10, za B5000 X 1. Ali pa
+pomnožen z obrnjenim, na leto dni računanim časom obrata.
+Čas obrata za A je 1/1 leta; obrnjeni čas obrata je '%/1, torej
+500 x 19/, — 5000; za B 5000 X 1/1 — 5000. Imenovalec izraža
+obrnjeni kapital, pomnožen z obrnjenim številom obratov:
+za 5000 X 1/1, za B 5000 X 1/1.
+
+Ustrezni množini dela (vsoti plačanega in neplačanega |
+dela), ki ju zaposlita oba med letom obrnjena variabilna ka-
+pitala, sta pri tem enaki, ker sta enaka sama obrnjena kapi-
+tala in prav tako meri povečevanja njune vrednosti.
+
+Razmerje med letno obrnjenim in založenim variabilnim
+kapitalom kaže: 1. v kakšnem razmerju je kapital, ki se mora
+založiti, z variabilnim kapitalom, ki se uporabi v določenem
+delovnem obdobju. Če je število obratov enako 10.kakor v
+primeru A in če predpostavimo, da ima leto petdeset ted-
+nov, je čas obrata enak petim tednom. Za teh pet tednov je
+treba založiti variabilni kapital, za pet tednov založeni ka-
+pital pa mora biti petkrat tolikšen kakor v enem tednu
+uporabljeni variabilni kapital. To pomeni, da se lahko upo-
+rabi v enem tednu samo 1/; založenega kapitala (tu 500 f. št.).
+Pri kapitalu B, kjer je število obratov <— 1, pa je, nasprotno,
+čas obrata 1 leto — 50 tednov. Razmerje med založenim ka-
+pitalom in vsak teden uporabljenim je torej 50:1. Če bi bilo
+za B isto kot za A, bi moral naložiti B tedensko 1000 f. št.
+namesto 100 f. št. — 2. Iz tega razmerja izhaja, da je za-
+ložil B desetkrat tako velik kapital (5000 f. št.) kakor A, da
+je lahko zaposlil isto množino variabilnega kapitala, torej ob
+dani meri presežne vrednosti tudi isto množino dela (plača-
+nega in neplačanega), da je torej tudi produciral med letom
+isto množino presežne vrednosti. Dejanska mera presežne
+vrednosti ne izraža nič drugega kakor razmerje med va-
+riabilnim kapitalom, uporabljenim v določenem razdobju,
+in presežno vrednostjo, producirano v istem razdobju, ali
+množino neplačanega dela, ki ga zaposli v istem razdobju
+
+ 
+
+ 
+16. Obrat variabilnega kapitala 339
+
+ 
+
+uporabljeni variabilni kapital. Prav nič nima opraviti s ti-
+stim delom variabilnega kapitala, ki je založen med časom,
+ko se ne uporablja, in zato tudi nima nič opraviti z razmer-
+jem med delom kapitala, ki je za določeno razdobje zalo-
+žen, in delom, ki se v istem razdobju uporabi, ki ga za
+različne kapitale modificira in diferencira obdobje obrata.
+
+Iz že razloženega nasprotno izhaja, da se letna mera
+presežne vrednosti le v enem samem primeru ujema z de-
+jansko mero presežne vrednosti, ki izraža stopnjo izkori-
+ščanja dela; to je v primeru, če se založeni kapital obrne
+samo enkrat v letu, zaradi česar je založeni kapital enak med
+letom obrnjenemu kapitalu, zaradi tega pa tudi razmerje
+med letno producirano množino presežne vrednosti in kapi-
+talom, ki ga uporabijo med letom, da bi jo sproducirali,
+enako in istovetno z razmerjem med letno producirano
+množino presežne vrednosti in kapitalom; ki je med letom
+založen.
+
+A. Letna mera presežne vrednosti je enaka:
+
+množina med letom producirane presežne vrednosti
+
+ 
+
+založeni variabilni kapital
+
+Množina med letom producirane presežne vrednosti pa je
+enaka dejanski meri presežne vrednosti, pomnoženi z va-
+riabilnim kapitalom, ki je uporabljen za njeno produk-
+cijo. Za produkcijo letne množine presežne vrednosti upo-
+rabljeni kapital je enak založenemu kapitalu, pomnožene-
+mu s številom njegovih obratov, ki ga bomo imenovali n.
+Obrazec A se torej spremeni v:
+
+B. Letna mera presežne vrednosti je enaka:
+dejanska mera presežne vrednosti X založeni variabilni
+
+kapital X n
+
+ 
+
+založeni variabilni kapital
+100 9/0 X 5000 X 1
+
+5000
+100 %/. Le če je n enak 1, se pravi, če se založeni variabilni
+kapital obrne samo enkrat v letu, če je torej enak med
+letom uporabljenemu ali obrnjenemu kapitalu, je letna
+
+ali
+
+Za kapital B je, na primer, enaka
+
+ 
+
+ 
+540 II. Obrat kapitala
+
+ 
+
+mera presežne vrednosti enaka dejanski meri presežne
+vrednosti.
+
+Če imenujemo letno mero presežne vrednosti Pv', de-
+jansko mero presežne vrednosti pv', založeni variabilni ka-
+
+pital v, število obratov n, pa dobimo Pw < — — < pv' n;
+
+iorej Pv' — pv'n in je enaka pvw' samo, če je n — 1, torej
+Pv' < pv X1< pv'.
+
+Iz tega nadalje izhaja: letna mera presežne vrednosti
+je vedno enaka pvw' n, se pravi dejanski meri presežne vred-
+nosti, ki jo producira v enem obdobju obrata med tem ob-
+dobjem porabljeni variabilni kapital, pomnoženi s številom
+obratov tega variabilnega kapitala med letom ali pomno-
+ženi (kar je isto) z njegovim obrnjenim časom obrata, raču-
+nanim na leto dni kot enoto. (Če se obrne variabilni kapital
+desetkrat v letu, je čas njegovega obrata enak 1/1 leta, nje-
+gov obrnjeni čas obrata pa torej 19/1 — 10.)
+
+Razen tega izhaja iz povedanega: Pv' — pv, če je n < 1.
+Pv' je večja kakor pv', če je n večji ko 1, se pravi, če se obrne
+založeni kapital več kot enkrat v letu ali če je obrnjeni ka-
+pital večji od založenega.
+
+Končno, Pw' je manjša ko pv', če je n manjši ko 1, se
+pravi, če je med letom obrnjeni kapital samo del založenega
+kapitala, če traja torej obdobje obrata dalj kot leto dni.
+
+Ustavimo se za trenutek pri zadnjem primeru.
+
+Obdržimo vse predpostavke našega prejšnjega primera,
+le obdobje obrata naj se podaljša na 55 tednov. Delovni pro-
+ces zahteva tedensko 100 f. št. variabilnega kapitala, torgj
+5500 f. št. za obdobje obrata, in producira tedensko 100 pv;
+pv' je torej kot doslej 100/0. Število obratov n je tu enako
+50/55 — 10/11, ker je čas obrata 1 -- 1/1 leta (leto petdesetih
+tednov).
+
+Pv' <
+
+ 
+
+100 9/0 X 5500 X 19/11
+5500
+
+— 100 X 19/11 — 1000/1; — 90 10/11 9/0,
+
+torej manjša ko 100/0. Če bi bila letna mera presežne vred-
+nosti 100/0, bi moralo producirati 5500 v v enem letu v
+resnici 5500 pv, vtem ko potrebujejo za to '/1 leta. 5500 v
+
+ 
+16. Obrat variabilnega kapitala 541
+
+ 
+
+producira letno samo 5000 pv, torej je letna mera presež-
+
+0
+ne vrednosti enaka PREpY — 10/14 — 90 10/11 9/0.
+5500 v
+
+Letna mera presežne vrednosti ali primerjava med pre-
+sežno vrednostjo, producirano v letu dni, in založenim va-
+riabilnim kapitalom nasploh (v nasprotju z variabilnim ka-
+pitalom, ki se med letom obrne) torej ni zgolj subjektivna;
+to primerjavo povzroči dejansko gibanje kapitala samo. Za
+posestnika kapitala A je konec leta pritekel nazaj njegov
+založeni kapital 500 f. št., poleg tega pa še 5000 f. št. pre-
+sežne vrednosti. Velikosti njegovega založenega kapitala ne
+izraža množina kapitala, ki jo je uporabil med letom, ampak
+množina kapitala, ki mu periodično priteka nazaj. Za obrav-
+navano vprašanje je prav vseeno, ali obstaja kapital konec
+leta deloma kot produkcijska zaloga, deloma kot blagovni ali
+denarni kapital, in v kakšnem razmerju je razdeljen na te
+različne dele. Posestniku kapitala B je priteklo nazaj 5000
+f. št., njegov založeni kapital, in vrh tega še 5000 f. št. pre-
+sežne vrednosti. Posestniku kapitala C (v višini 5500 f. št.,
+zadnjega, ki smo ga obravnavali) je bilo produciranih med
+letom 5000 f. št. presežne vrednosti (porabljenih 5000 f. št.,
+mera presežne vrednosti pa 100/0), njegov založeni kapital
+kakor tudi njegova producirana presežna vrednost pa še
+nista pritekla nazaj.
+
+Pv' — pv' n izraža, da je treba mero presežne vrednosti,
+veljavno za variabilni kapital, ki se uporabi v enem ob-
+dobju obrata,
+
+v času enega obdobja obrata producirana množina presežne
+vrednosti
+
+v času enega obdobja obrata uporabljeni variabilni kapital
+
+ 
+
+pomnožiti s številom obdobij obrata ali reprodukcijskih ob-
+dobij založenega variabilnega kapitala, s številom obdobij,
+v katerih obnavlja svoj krožni tok.
+
+Že v četrtem poglavju prve knjige (Spreminjanje de-
+narja v kapital) in potem v enaindvajsetem poglavju prve
+knjige (Enostavna reprodukcija) smo videli, da se vrednost
+
+ 
+
+ 
+ 
+
+342 II. Obrat kapitala
+
+ 
+
+kapitala nasploh zalaga in ne porabi, ker se, ko opravi raz-
+lične faze svojega krožnega toka, vrne ta vrednost spet na
+svoje izhodišče, toda obogatena s presežno vrednostjo. To
+jo označuje kot založeno vrednost kapitala. Čas, ki poteče
+od njene založitve do tedaj, ko se vrne, je čas, v katerem je
+založena. Celotni krožni tok, ki ga opravi vrednost kapi-
+tala, merjen s časom od njene založitve do tedaj, ko se vrne,
+je njen obrat, trajanje tega obrata pa eno obdobje obrata.
+Če se je to obdobje izteklo, če se je krožni tok končal,
+lahko prične ista vrednost kapitala znova isti krožni tok, se
+lahko torej tudi znova poveča, producira presežno vrednost.
+Če se variabilni kapital tako kakor pod A) obrne desetkrat
+v letu, se producira v teku leta z istim založenim kapitalom
+desetkrat toliko presežne vrednosti, kakor ustreza enemu
+obdobju obrata.
+
+Naravo založbe si moramo razjasniti z vidika kapitali-
+stične družbe.
+
+Kapital A, ki se obrne desetkrat v enem letu, založi
+kapitalist desetkrat na leto. Za vsako novo obdobje obrata
+ga založi znova. Hkrati pa ne založi med letom nikoli več
+kot isto vrednost kapitala 500 f. št. in dejansko nima za pro-
+dukcijski proces, ki ga obravnavamo, nikoli več na razpo-
+lago ko 500 f. št. Kakor hitro opravi teh 500 f. št. en krožni
+tok, prične A z njimi znova isti krožni tok; kajti kapital
+ohranja svoj značaj kapitala po svoji naravi ravno in samo
+s tem, da zmeraj deluje kot kapital v ponavljanih produk-
+cijskih procesih. Tudi se nikoli ne založi za dalj ko za pet
+tednov. Če traja obrat dalj, ga ni več dovolj. Če se skrajša
+postane del založenega kapitala odveč. Založenih ni deset kf
+pitalov po 500 f. št., ampak en kapital v znesku 500 f. št. se
+desetkrat naloži v zaporednih odsekih časa. Letna mera pre-
+sežne vrednosti se torej ne računa na desetkrat založeni kapi-
+tal 500 £. št. ali na 5000 f. št., ampak na enkrat založeni kapi-
+tal v znesku 500 f. št., tako kakor je en tolar, ki desetkrat cir-
+kulira, vedno le en sam tolar, ki se zadržuje v cirkulaciji,
+čeprav opravi funkcijo desetih tolarjev. V rokah, v katerih
+se znajde pri vsaki menjavi lastnika, pa je vedno samo ena
+in ista vrednost enega tolarja.
+
+ 
+16. Obrat variabilnega kapitala 545
+
+ 
+
+Prav tako kaže kapital A pri vsakokratni svoji vrni-
+tvi in tudi pri svoji vrnitvi na koncu leta, da dela njegov
+posestnik vedno le z isto vrednostjo kapitala 500 f. št. Zato
+tudi priteče v njegove roke vsakokrat nazaj le 500 f. št.
+Njegov založeni kapital ni torej nikoli večji kot 500 f. št.
+Založeni kapital 500 f. št. je torej imenovalec ulomka, ki
+izraža letno mero presežne vrednosti. Zato smo imeli zgoraj
+za letno mero presežne vrednosti obrazec: pv - Z— —
+
+ 
+
+, S k v s V.
+— pv n. Ker je dejanska mera presežne vrednosti pv' — aa
+
+v
+enaka množini presežne vrednosti, deljeni z variabilnim
+kapitalom, ki jo je produciral, lahko postavimo v pv n
+
+vrednost, ki jo ima pv', torej E, in dobimo potem drugi
+obrazec Pv' — PE,
+
+S svojim desetkratnim obratom in torej z desetkrat
+obnovljeno založitvijo opravi kapital 500 f. št. funkcijo de-
+setkrat večjega kapitala, kapitala 5000 f. št., prav tako
+kakor opravi 500 kosov tolarjev, ki se obrnejo v letu deset-
+krat, isto funkcijo kakor 5000, ki se obrnejo le enkrat.
+
+Il. Obrat posameznega variabilnega kapitala
+
+»Produkcijski proces, kakršnakoli že je njegova družbena
+oblika, mora biti nepretrgan, mora periodično vedno znova
+teči skozi iste stadije... Vsak družbeni produkcijski proces
+je zato z vidika svoje stalne povezanosti in stalnega toka
+svojega obnavljanja hkrati tudi reprodukcijski proces... Kot
+periodičen prirastek vrednosti kapitala ali kot periodičen sad
+kapitala v procesu gibanja dobiva presežna vrednost obliko
+dohodka, ki izvira iz kapitala.« (1. knj., 21. pogl., str. 657, 658.)
+
+Imamo deset pettedenskih obdobij obrata kapitala A; v
+prvem obdobju obrata se založi 500 f. št. variabilnega kapi-
+tala; to pomeni, da se spremeni v delovno silo vsak teden 100
+f. št., tako da je ob koncu prvega obdobja obrata izdanih za
+delovno silo 500 f. št. Teh 500 f. št., ki so bili spočetka del za-
+
+ 
+
+ 
+344 II. Obrat kapitala
+
+ 
+
+loženega celotnega kapitala, je prenehalo biti kapital. Šli so
+za plačilo mezde. Delavci pa jih spet izdajo pri nakupu svo-
+jih življenjskih potrebščin, porabijo torej življenjskih potreb-
+ščin v vrednosti 500 f. št. Tako se uniči množina blaga v višini
+te vrednosti (kar delavec morebiti prihrani v denarju, prav
+tako ni kapital). Ta množina blaga je z vidika delavca po-
+rabljena neproduktivno, razen kolikor ohranja njegovo de-
+lovno silo, torej za kapitalista neizogibno orodje, sposobno
+za delo. — Drugič, za kapitalista pa se je spremenilo teh
+500 f. št. v delovno silo iste vrednosti (oziroma cene). Delovno
+silo konsumira produktivno v delovnem procesu. Ob koncu
+petih tednov obstaja producirana vrednost v znesku 1000
+f. št. Polovica tega, 500 f. št., je reproducirana vrednost
+variabilnega kapitala, ki ga je izdal za plačilo delovne sile.
+Druga polovica, 500 f. št., je novo producirana presežna vred-
+nost. Toda pettedenska delovna sila, za katero je bil zame-
+njan del kapitala, ki se je tako spremenil v variabilni kapi-
+tal, je prav tako izdana, potrošena, čeprav produktivno.
+Delo, ki je delovalo včeraj, ni isto delo, ki deluje danes.
+Njegova vrednost plus presežna vrednost, ki jo je produci-
+ralo, obstaja zdaj kot vrednost stvari, ki je različna od de-
+lovne sile, kot vrednost produkta. S tem pa, da se produkt
+spremeni v denar, se lahko tisti del njegove vrednosti, ki je
+enak vrednosti založenega variabilnega kapitala, znova za-
+menja za delovno silo in zatorej znova deluje kot variabilni
+kapital. Okoliščina, da ista vrednost kapitala, ki je ne le
+reproducirana, ampak tudi v denarni obliki povrnjena, za-
+posli iste delavce, se pravi iste nosilce delovne sile, je brez
+pomena. Možno je, da uporabi kapitalist v obdobju drugega
+obrata namesto dotedanjih druge delavce.
+
+Dejansko se torej izda v desetih pettedenskih obdobjih
+obrata postopoma kapital 5000 £. št. in ne 500 f. št. za mezde,
+ki jih delavci potrošijo za življenjske potrebščine. Tako
+založeni kapital 5000 f. št. je porabljen. Ne obstaja več. Po
+drugi strani se postopoma ne vključuje v produkcijski proces
+delovna sila v vrednosti 500 f. št., ampak v vrednosti 5000
+f. št., in ne reproducira le svoje lastne vrednosti 5000 f£. št.,
+ampak producira povrh tega presežno vrednost 5000 f£. št.
+
+ 
+16. Obrat variabilnega kapitala 545
+
+ 
+
+Variabilni kapital 500 f. št., založen v obdobju drugega
+obrata, ni istoveten s kapitalom 500 f. št., ki je bil založen
+v obdobju prvega obrata. Ta je porabljen, izdan za mezde.
+Pač pa je nadomeščen z novim variabilnim kapitalom 500
+f. št., ki je bil v obdobju prvega obrata produciran v bla-
+govni obliki in se spremenil nazaj v denarno obliko. Ta novi
+denarni kapital 500 f. št. je torej denarna oblika množine
+blaga, ki je bila na novo producirana v obdobju prvega
+obrata. Okoliščina, da ima kapitalist spet v rokah prav isti
+znesek denarja 500 f. št., se pravi prav toliko denarnega ka-
+pitala — če ne upoštevamo presežne vrednosti — kakor ga
+je prvotno založil, zakriva okoliščino, da dela z novo produ-
+ciranim kapitalom. (Kar zadeva druge sestavne dele vred-
+nosti blagovnega kapitala, ki nadomestijo konstantne sestav-
+ne dele kapitala, njihova vrednost ni producirana na novo,
+ta vrednost spremeni samo obliko, v kateri obstaja.) — Vze-
+mimo obdobje tretjega obrata. Tu je očitno, da tretjič zalo-
+ženi kapital 500 f. št. ni stari kapital, ampak na novo produ-
+cirani; kajti kapital ni denarna oblika v obdobju prvega,
+ampak v obdobju drugega obrata producirane množine blaga,
+se pravi tistega dela te množine blaga, katerega vrednost je
+enaka vrednosti založenega variabilnega kapitala. V obdob-
+ju prvega obrata producirana množina blaga je prodana.
+Del njene vrednosti, ki je enak variabilnemu delu vrednosti
+založenega kapitala, je bil zamenjan v novo delovno silo
+drugega obdobja obrata in je produciral novo množino bla-
+ga, ki je bila znova prodana in ki tvori z delom svoje vred-
+nosti v obdobju tretjega obrata založeni kapital 500 f. št.
+
+Enako je v vseh desetih obdobjih obrata. Za njihovega
+trajanja prihajajo vsakih pet tednov na trg na novo produ-
+cirane množine blaga (katerih vrednost se ne le znova po-
+javlja kakor pri konstantnem delu cirkulirajočega kapitala,
+ampak se, kolikor nadomešča variabilni kapital, prav tako
+na novo producira). To omogoča, da se vključuje v produk-
+cijski proces vedno nova delovna sila.
+
+7, desetkratnim obratom založenega variabilnega kapi-
+tala 500 f. št. torej ne dosežemo, da bi lahko produktivno
+porabili ta kapital 500 f. št. desetkrat ali da bi lahko varia-
+
+ 
+
+ 
+546 II. Obrat kapitala
+
+ 
+
+bilni kapital, ki zadošča za pet tednov, uporabljali petde-
+set tednov. Pač pa se v petdesetih tednih uporabi 10 X 500
+f. št. variabilnega kapitala, kapital 500 f. št. pa vedno za-
+došča le za pet tednov in ga je treba na koncu petih tednov
+nadomestiti z novo produciranim kapitalom 500 f. št. To
+velja i za kapital A i za kapital B. Tu pa se prične razlika.
+
+Na koncu prvega razdobja petih tednov sta založila in
+izdala tako A kakor B 500 f. št. variabilnega kapitala. Tako
+B kakor tudi A sta zamenjala njegovo vrednost v delovno
+silo in jo nadomestila z delom vrednosti produkta, ki jo je
+ta delovna sila na novo producirala, z delom, ki je enak
+vrednosti založenega variabilnega kapitala 500 f. št. Tako za
+B kakor tudi za A je delovna sila z novo vrednostjo istega
+zneska nadomestila ne samo vrednost izdanega variabilnega
+kapitala 500 f. št., ampak ji je dodala tudi — po naši pred-
+postavki enako veliko — presežno vrednost.
+
+Vendar pa producirana vrednost, ki nadomešča založeni
+variabilni kapital in dodaja njegovi vrednosti presežno
+vrednost, pri B nima oblike, v kateri bi lahko znova de-
+lovala kot produktivni kapital oziroma variabilni kapital.
+Pri A pa ima to obliko. In do kraja leta nima kapitalist B
+variabilnega kapitala, ki ga je izdal prvih pet tednov in
+potem zaporedoma vsakih naslednjih pet tednov, v rokah v
+obliki, v kateri bi lahko znova deloval kot produktivni
+oziroma variabilni kapital, čeprav je nadomeščen z novo
+producirano vrednostjo plus presežno vrednostjo. Njegova
+vrednost je sicer nadomeščena z novo vrednostjo, torej ob-
+novljena, njegova oblika vrednosti (tu absolutna oblika vred-
+nosti, denarna oblika) pa ni obnovljena. m
+
+Za drugo razdobje petih tednov (in tako zaporedoma
+za vsakih pet tednov v letu) je treba torej imeti na razpo-
+lago prav tako nadaljnjih 500 f. št. kakor za prvo razdobje.
+Torej mora biti — ne upoštevajoč kreditna razmerja — na
+začetku leta v zalogi 5000 f. št., na razpolago morajo biti
+kot latentni založeni denarni kapital, čeprav se šele med
+letom postopno dejansko izdajo, spremene v delovno silo.
+
+Pri A pa ima nadomestilo vrednosti, ker se je krožni
+tok, obrat založenega kapitala sklenil, že po preteku prvih
+
+ 
+16. Obrat variabilnega kapitala 347
+
+ 
+
+petih tednov obliko, v kateri lahko spravi za pet tednov na
+delo novo delovno silo: svojo prvotno denarno obliko.
+
+Tako v primeru A kakor v primeru B se porabi v dru-
+gem pettedenskem obdobju nova delovna sila in izda za
+plačilo te delovne sile nov kapital 500 £. št. S prvimi 500
+f. št. plačanih delavskih življenjskih potrebščin ni več, vsaj
+njihova vrednost je izginila iz kapitalistovih rok. Z dru-
+gimi 500 f. št. nakupi novo delovno silo, delavci pokupijo
+na trgu nove življenjske potrebščine. Skratka, potroši se
+nov kapital 500 f. št., ne prejšnji. Toda v primeru A je ta
+novi kapital 500 f. št. denarna oblika na novo proizvedenega
+nadomestila vrednosti poprej izdanih 500 f. št. V primeru
+B ima to nadomestilo vrednosti obliko, v kateri ne more
+delovati kot variabilni kapital: obstaja, vendar ne v obliki
+variabilnega kapitala. Zato mora biti za nadaljevanje pro-
+dukcijskega procesa na razpolago in založen za naslednjih
+pet tednov dodaten kapital 500 f. ši. v denarni obliki, ki je
+tu neogibno potrebna. Tako A kakor tudi B izdata v pet-
+desetih tednih enako količino variabilnega kapitala, pla-
+čata in porabita enako množino delovne sile. Toda B jo mora
+plačati z založenim kapitalom, ki je enak celotni vrednosti
+te delovne sile —5000 f. št. A jo plačuje postopoma z ne-
+prestano obnavljajočo se denarno obliko vsakih pet tednov
+produciranega nadomestila vrednosti za vsakih pet tednov
+založenega kapitala 500 f. št. A torej nikoli ne založi več
+denarnega kapitala ko za pet tednov, se pravi nikoli več-
+jega, kot znaša za prvih pet tednov založeni kapital 500 f. št.
+Teh 500 £. št. zadošča za celo leto. Potemtakem je jasno, da
+morata biti pri enaki stopnji izkoriščanja dela, enaki de-
+janski meri presežne vrednosti, letni meri presežne vredno-
+sti A in B v obratnem sorazmerju z velikostmi variabilnih
+denarnih kapitalov, ki morata biti založena, da bi v teku
+
+leta spravila na delo isto množino delovne sile. A: PO EE a
+500 v
+500
+— 1000 9/4, in B: nena — 100 %/o. Toda 500 v :5000 v — 1:10 —
+5000 v
+
+— 100 9/0 : 1000 %/o.
+
+ 
+
+ 
+348 II. Obrat kapitala
+
+ 
+
+Razlika izvira iz različnih obdobij obratov, se pravi
+obdobij, v katerih lahko nadomestilo vrednosti v določe-
+nem razdobju uporabljenega variabilnega kapitala znova
+deluje kot kapital, torej kot nov kapital. Tako B kakor A
+nadomeščata v istih obdobjih uporabljeni variabilni kapital
+z isto vrednostjo. Tudi presežna vrednost priraste v teku
+istih razdobij enako. Toda B dobi sicer vsakih pet tednov
+nadomestilo vrednosti 500 f. št. plus 500 f. št. presežne
+vrednosti, vendar pa to nadomestilo vrednosti ni nov kapi-
+tal, ker nima denarne oblike. Pri A je nadomeščena ne samo
+stara vrednost kapitala z novo, ampak je obnovljena v svoji
+denarni obliki, nadomeščena torej kot nov kapital, spo-
+soben za delovanje.
+
+Zgodnejša ali kasnejša sprememba nadomestila vredno-
+sti v denar, torej v obliko, v kateri se zalaga variabilni
+kapital, je očitno povsem nepomembna okoliščina za pro-
+dukcijo presežne vrednosti. Ta je odvisna od velikosti upo-
+rabljenega variabilnega kapitala in od stopnje izkoriščanja
+dela. Obravnavana okoliščina pa spreminja velikost denar-
+nega kapitala, ki ga je treba založiti, da bi v teku leta za-
+poslil določeno količino delovne sile, in določa torej letno
+mero presežne vrednosti.
+
+III. Obrat variabilnega kapitala z družbenega vidika
+
+Poglejmo zadevo za trenutek z družbenega vidika. En
+delavec stane recimo 1 f.št. na teden, delovni dan — 10 ur.
+Pri A kakor tudi pri B je zaposlenih med letom 100 delav-
+cev (100 f. št. na teden za 100 delavcev da za pet tedno%
+500 f. ši., za 50 tednov pa 5000 f. št.), a vsak od njih dela
+po 60 delovnih ur, teden po 6 dni. Torej 100 delavcev na
+teden da 6000 delovnih ur, v 50 tednih pa 500.000 delovnih
+ur. Tako A kot B sta to delovno silo zasegla in je torej
+družba ne more porabiti za kaj drugega. V tem pogledu
+je torej stvar z družbenega vidika ista pri A in pri B.
+Dalje: tako pri A kakor pri B dobi vsakih 100 delavcev
+na leto mezdo 5000 f. št. (200 delavcev skupaj torej 10.000
+f. ši.) in odtegnejo za to vsoto družbi življenjske potreb-
+
+ 
+16. Obrat variabilnega kapitala 549
+
+ 
+
+ščine. V tem pogledu je stvar z družbenega vidika spet ista
+tako v primeru A kakor v primeru B. Ker so delavci v
+obeh primerih tedensko plačani, odtegujejo tudi življenj-
+ske potrebščine družbi tedensko, za kar mečejo v obeh pri-
+merih prav tako tedensko v cirkulacijo denarni ekvivalent.
+Tu pa se prične razlika.
+
+Prvič. Denar, ki ga meče v cirkulacijo delavec v primeru
+A, ni samo, kakor za delavca v primeru B, denarna oblika
+vrednosti njegove delovne sile (v resnici plačilno sredstvo
+za že opravljeno delo); že od obdobja drugega obrata dalje,
+računajoč od začetka podjetja, je ta denar denarna oblika
+prednosti, ki jo je sam produciral (enaka ceni delovne sile
+plus presežni vrednosti) v obdobju prvega obrata, s kate-
+ro plačajo njegovo delo v obdobju drugega obrata. V pri-
+meru B to mi tako. Glede na delavca je tu denar sicer
+plačilno sredstvo za delo, ki ga je že opravil, tega oprav-
+ljenega dela pa ne plačajo z njegovo lastno vnovčeno
+producirano vrednostjo (denarno obliko vrednosti, ki jo je
+sam produciral). To se lahko zgodi šele od drugega leta
+dalje, ko plačajo delavca v primeru B z vnovčeno vred-
+nostjo, ki jo je prejšnje leto sam produciral.
+
+Čim krajše je obdobje obrata kapitala — v čim kraj-
+ših razdobjih se torej obnavljajo med letom njegovi repro-
+dukcijski roki — tem hitreje se spreminja variabilni del
+kapitala, ki ga je prvotno založil kapitalist v denarni obli-
+ki, v denarno obliko producirane vrednosti (ki vsebuje
+razen tega presežno vrednost), katero je produciral delavec
+za nadomestitev tega variabilnega kapitala; tem krajši je
+torej čas, za katerega mora založiti kapitalist denar iz svo-
+jega lastnega sklada, tem manjši je v razmerju do danega
+obsega produkcije kapital, ki ga kapitalist sploh zalaga; in
+razmeroma tem večja je množina presežne vrednosti, ki jo
+iztisne v letu dni pri dani meri presežne vrednosti, ker
+lahko toliko pogosteje vedno znova kupi delavca z denarno
+obliko njegove lastne producirane vrednosti in ga spravi
+k delu.
+
+Pri danem obsegu produkcije se sorazmerno s krajšanjem
+obdobja obrata zmanjšuje absolutna velikost založenega
+
+ 
+
+ 
+
+ 
+350 Il. Obrat kapitala
+
+ 
+
+variabilnega denarnega kapitala (tako kot cirkulirajočega
+kapitala sploh) in raste letna mera presežne vrednosti. Pri
+dani velikosti založenega kapitala raste obseg produkcije,
+pri dani meri presežne vrednosti torej absolutna množina .
+v enem obdobju obrata producirane presežne vrednosti isto-
+časno z naraščanjem letne mere presežne vrednosti, ki ga
+povzroča skrajševanje reprodukcijskih obdobij. Iz doseda-
+njih raziskav smo ugotovili v splošnem, da je treba zaradi
+neenakega trajanja obdobja obrata založiti zelo neenako
+velik denarni kapital, da je mogoče zaposliti isto množino
+produktivnega cirkulirajočega kapitala in isto množino dela
+ob enaki stopnji izkoriščanja dela.
+
+Drugič — in to je v zvezi s prvo razliko — plača dela-
+vec tako v primeru B kakor tudi A življenjske potrebščine,
+katere kupuje, z variabilnim kapitalom, ki se je spremenil
+v njegovih rokah v cirkulacijsko sredstvo. Na primer, s trga
+vzame pšenico, a ne le vzame, ampak jo tudi nadomesti
+s protivrednostjo v denarju. Ker pa denar, s katerim pla-
+čuje delavec pod B svoje življenjske potrebščine in jih
+odteguje s trga, ni denarna oblika producirane vrednosti,
+ki jo med letom meče na trg, kakor pri delavcu v primeru
+A, daje prodajalcu življenjskih potrebščin sicer denar, toda
+ne blaga — bodisi produkcijskih sredstev, bodisi življenj-
+skih potrebščin — ki bi ga prodajalec lahko kupil za iztr-
+ženi denar, kakor se godi v primeru A. S trga se torej
+odtegujejo delovna sila, življenjske potrebščine za to de-
+lovno silo, fiksni kapital v obliki pod B uporabljanih delov-
+nih sredstev in produkcijskih tvarin, in za njih nadomesti-
+tev prihaja na trg protivrednost v denarju. Med letom pa
+ne pride na trg noben produkt, da bi nadomestil tiste tvarne
+elemente produktivnega kapitala, ki so s trga odvzeti. Če
+si zamislimo, da družba ni kapitalistična, ampak komuni-
+stična, tedaj odpade predvsem popolnoma denarni kapital
+in zato tudi preobleke, v katere zagrinja transakcije. Pro-
+blem se skrči kratko malo na to, da mora družba vnaprej
+izračunati, koliko dela, produkcijskih sredstev in življenjskih
+potrebščin lahko brez kakršne koli škode uporabi za poslovne
+panoge, ki podobno kakor na primer gradnja železnic daljši
+
+ 
+16. Obrat variabilnega kapitala 351
+
+ 
+
+čas, leto dni ali več, ne dajejo niti produkcijskih sredstev
+niti življenjskih potrebščin niti kakršnega koli koristnega
+učinka, pač pa odvzemajo skupni letni produkciji delo,
+produkcijska sredstva in življenjske potrebščine. Nasprotno
+pa v kapitalistični družbi, kjer se uveljavi družbeni um
+vedno šele post festum, morejo in morajo zato zmeraj na-
+stati velike motnje. Po eni strani pritisk na denarni trg,
+medtem ko je nasprotno lagoden denarni trg sam spočetnik
+množice takšnih podjetij in torej ravno takšnih okoliščin,
+ki povzročajo kasneje pritisk na denarni trg. Pritisk na
+denarnem trgu nastane, ker je treba med dolgimi razdobji
+trajno v velikem obsegu zalagati denarni kapital. Okoli-
+ščine, da mečejo industrijci in trgovci denarni kapital, ki
+jim je potreben za obratovanje njihovih podjetij, v železni-
+ške špekulacije itd. in da ga nadomeščajo s posojili na
+denarnem trgu, tu niti ne upoštevamo. — Po drugi strani
+pritisk na razpoložljivi produktivni kapital družbe. Ker se
+nenehoma jemljejo s trga elementi produktivnega kapitala
+in meče zanje na trg samo denarni ekvivalent, naraste pla-
+čila sposobno povpraševanje, ne da bi dalo samo iz sebe
+kakršen koli element ponudbe. Odtod naraščanje cen živ-
+ljenjskih potrebščin in tudi produkcijskih sredstev. Vrhu
+tega je to redno čas goljufij in velikih prenosov kapitala.
+Drhal špekulantov, stavbenikov, inženirjev, advokatov idr.
+obogati. Povzročijo močno konsumptivno povpraševanje
+na trgu. Razen tega se zvišajo mezde. Kolikor se nanaša
+povpraševanje na živila, gotovo spodbudi tudi poljedelstvo.
+Ker pa teh živil ni mogoče pomnožiti čez noč, narašča med
+letom njihov uvoz podobno kakor uvoz eksotičnih živil
+(kava, sladkor, vino itd.) in luksusnih predmetov sploh.
+Odtod prevelik uvoz in špekulacija v tej panogi uvozne
+trgovine. Na drugi strani povzroči zvišanje cen v industrij-
+skih panogah, v katerih se produkcija lahko hitro poveča
+(prava manufaktura, rudarstvo itd.), nenadno razširitev, ki
+ji kmalu sledi zlom. Do enakih posledic pride na delovnem
+trgu, od koder nove poslovne panoge pritegujejo velike
+množice latentno relativno odvečnega prebivalstva in celo
+zaposlenih delavcev. Takšna podjetja velikega obsega ka-
+
+ 
+
+ 
+352 II. Obrat kapitala
+
+ 
+
+kor železnice sploh odvzemajo trgu dela določeno količino
+delovne sile, katero je mogoče dobiti samo iz takšnih panog,
+ki uporabljajo, kakor na primer poljedelstvo itd., samo
+krepke moške. To se dogaja tudi še potem, ko postanejo
+nova podjetja že ustaljena poslovna panoga in se je že
+formiral zanjo potrebni nomadski razred delavcev. Tako
+na primer za železnice, kakor hitro jih grade v večjem,
+ne običajnem obsegu. Del delavske rezervne armade,
+katere pritisk je tlačil mezde, se tedaj absorbira. Mezde
+splošno narastejo, celo v dotlej dobro zaposlenih delih de-
+lovnega trga. To traja dotlej, ko neizogibni polom znova
+sprosti rezervno delavsko armado in pritisne mezde spet
+na njihov minimum in pod njega.
+
+Kolikor je daljše ali krajše trajanje obdobja obrata
+odvisno od delovnega obdobja v pravem pomenu, se pravi
+od obdobja, ki je potrebno, da se izdela produkt za trg,
+sloni na vsakokrat danih materialnih produkcijskih pogojih
+različnih naložb kapitala, ki imajo v poljedelstvu bolj zna-
+čaj naravnih pogojev produkcije, v manufakturni in pre-
+težnem delu ekstraktivne industrije pa se spreminjajo z
+družbenim razvojem produkcijskega procesa.
+
+Kolikor temelji trajanje delovnega obdobja na veliko-
+sti dobav (količinskem obsegu, v katerem se produkt kot
+blago praviloma pošilja na trg), je konvencionalnega zna-
+čaja. Konvencija pa ima za tvarno podlago obseg produk-
+cije in je zato naključna le, če jo gledamo izolirano.
+
+s? V rokopisu je dodana na tem mestu za kasnejšo obdelavo
+naslednja pripomba: »Protislovje v kapitalističnem produkcijskem
+načinu: kot kupci blaga so delavci važni za trg. Kot prodajalce
+njihovega blaga — delovne sile — pa jih skuša kapitalistična pro-
+dukcija omejiti na minimum cene. — Še eno protislovje: raz-
+dobja, v katerih napne kapitalistična produkcija vse svoje sile,
+se izkažejo praviloma kot razdobja hiperprodukcije, ker produk-
+cijskih sposobnosti nikoli ni mogoče uporabiti do take mere, da
+se ne le producira, ampak tudi vnovči večja vrednost. Prodaje
+blaga, vnovčenja blagovnega kapitala, torej tudi presežne vredno-
+sti pa ne omejujejo konsumne potrebe družbe nasploh, ampak
+konsumne potrebe družbe, katere velika večina je vedno siromašna
+in mora siromašna vedno ostati. Vendar pa spada to šele v na-
+slednji oddelek.« — F. E.
+
+ 
+16. Obrat variabilnega kapitala 353
+
+ 
+
+Kolikor je naposled odvisno obdobje obrata od dolgosti
+cirkulacijskega obdobja, določa le-tega deloma sicer ne-
+prestano spreminjanje tržnih konjunktur, težje ali lažje
+prodajanje in temu ustrezna nujnost dati produkt deloma
+na bližje ali bolj oddaljene trge. Če pustimo obseg povpra-
+ševanja sploh ob strani, ima pri tem gibanje cen glavno
+vlogo, ker pri nižajočih se cenah kapitalisti prodajo namerno
+skrčujejo, medtem ko teče produkcija naprej; nasprotno
+pri višajočih se cenah, kjer gresta produkcija in prodaja
+v korak ali se lahko prodaja vnaprej. Vendar je za pravo
+tvarno podlago šteti dejansko oddaljenost sedeža produk-
+cije od prodajnega trga.
+
+Vzemimo na primer, da se proda angleška bombažna
+tkanina ali preja v Indijo. Izvozni trgovec plača angleške-
+mu bombažnemu tovarnarju (izvozni trgovec napravi to rad
+samo takrat, kadar so razmere na denarnem trgu ugodne;
+če nadomesti tovarnar svoj denarni kapital s kreditnimi
+operacijami, je že nekaj narobe). Izvoznik proda svoje
+bombažno blago kasneje na indijskem trgu, odkoder mu
+povrnejo njegov založeni kapital. Do te povrnitve je stvar
+prav taka kot v primeru, ko zahteva trajanje delovnega
+obdobja založitev novega denarnega kapitala, da bi pro-
+dukcijski proces še naprej obratoval v nespremenjenem
+obsegu. Denarni kapital, s katerim plača tovarnar svoje
+delavce in obnovi tudi druge elemente svojega cirkulira-
+jočega kapitala, ni denarna oblika preje, ki jo je produci-
+ral. To lahko postane šele, ko priteče vrednost te preje v
+denarju ali produktu nazaj v Anglijo. Je dodatni denarni
+kapital kakor poprej. Razlika je le v tem, da ga namesto
+iovarnarja zalaga trgovec, pa tudi ta ga je pridobil mogoče
+s kreditnimi operacijami. Prav tako ne pride, niti preden
+priteče ta denar na trg niti istočasno z njim, na angleški
+trg noben dodatni produkt, ki bi ga bilo mogoče kupiti
+s tem denarjem in spraviti v produktivno ali individualno
+porabo. Če traja to stanje dalj časa in dobi večji obseg,
+mora roditi iste posledice kakor prej omenjeno podaljšanje
+delovnega obdobja.
+
+23 — Kapital II.
+
+ 
+
+ 
+a
+au
+BR
+
+Il. Obrat kapitala
+
+ 
+
+Pri tem je možno, da tudi v Indiji prodajo prejo
+kredit. S tem kreditom kupijo v Indiji drug produkt in
+pošljejo kot protivrednost v Anglijo ali remitirajo za
+vsoto menice. Če se takšne razmere nadaljujejo, pride di
+pritiska na indijski denarni trg, katerega povratni učinek n
+Anglijo lahko povzroči krizo. Celo kadar je povezana z izva
+zom žlahtnih kovin v Indijo, lahko povzroči ta kriza v Indi
+novo krizo zaradi bankrota angleških trgovskih tvrdk j
+njihovih indijskih podružnic, ki so dobile kredit od indij
+skih bank. Tako nastane istočasno kriza tako na trgu, z
+katerega je trgovinska bilanca pasivna, kakor tudi m
+irgu, za katerega je aktivna. Ta pojav je lahko še bolj za
+pleten. Anglija je na primer poslala v Indijo srebro v palica
+Angleški upniki Indije izterjujejo sedaj tam svoje terjatvi
+Zato bo morala Indija kmalu nato poslati svoje srebrn
+palice nazaj v Anglijo.
+
+Izvozna trgovina v Indijo in uvozna trgovina iz Indij
+se lahko približno izravnata, čeprav (razen v posebnih oko
+liščinah, npr. zaradi podražitve bombaža itd.) odloča o ok
+segu uvoza in ga spodbuja izvoz. Trgovinska bilanca me
+Anglijo in Indijo je lahko tako rekoč izravnana ali pa lahk
+kaže le rahlo nihanje na to ali na drugo stran. Kakor hitr
+pa izbruhne kriza v Angliji, se pokaže, da je v Indiji na zale
+gah neprodano bombažno blago (ki se torej ni spremenil
+iz blagovnega kapitala v denarnega — po tej strani hipe
+produkcija) in da na drugi strani ne leže v Adgliji sam
+neprodane zaloge indijskih produktov, ampak da velik d
+prodanih in porabljenih zalog sploh še ni plačan. Kar s
+torej pokaže kot kriza na denarnem trgu, izraža v resni
+nepravilnosti v produkcijskem in reprodukcijskem proces
+samem.
+
+Tretjič. Kar zadeva uporabljeni cirkulirajoči kapi
+(variabilni kakor tudi konstantni), povzroča trajanje obdob
+obrata, kolikor izhaja iz trajanja delovnega obdobja, to
+razliko: pri več obratih na leto lahko dobavi kak elemer
+variabilnega ali konstantnega cirkulirajočega kapitala njege
+lastni produkt; npr. pri produkciji premoga, konfekciji oble
+itd. V drugem primeru ne, vsaj ne med letom.
+
+ 
+
+ 
+
