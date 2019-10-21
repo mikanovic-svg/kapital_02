@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 raw-jpg/
 raw-pdf/
 raw-tiff/
 source-out/*
 !source-out/*.pdf
+=======
+>>>>>>> 6829b0bdbc2968873e7984907e6c94bb400b2d29
 *.aux
 *.fdb_latexmk
 *.fls
 *.log
+<<<<<<< HEAD
 *.jpg
 *.synctex.gz
+=======
+*.pdf
+*.synctex.gz
+>>>>>>> 6829b0bdbc2968873e7984907e6c94bb400b2d29
