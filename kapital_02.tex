@@ -3,6 +3,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T2A, T1]{fontenc}
 \usepackage[russian,slovene]{babel}
+\usepackage{microtype}
 
 \usepackage[stable]{footmisc}
 
@@ -11,76 +12,122 @@
 \usepackage{tempora}
 \recalctypearea
 
-\newcommand{\D}{D}
-\newcommand{\crta}{---}
-\newcommand{\B}{B}
-\newcommand{\pike}{\dots}
-\newcommand{\Pro}{P}
-\newcommand{\Ds}{\mathit{Ds}}
-\newcommand{\Ps}{\mathit{Ps}}
-\newcommand{\Pv}{\mathit{Pv}}
-\newcommand{\dB}{b}
-\newcommand{\dD}{d}
-\newcommand{\dPro}{p}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usetikzlibrary{decorations.pathreplacing}
+\tikzstyle{overbrace style}=[decorate,decoration={brace,raise=0.25em,amplitude=0.25em}]
+\tikzstyle{underbrace style}=[decorate,decoration={brace,raise=0.25em,amplitude=0.25em,mirror}]
+\tikzstyle{under underbrace style}=[decorate,decoration={brace,raise=0.75em,amplitude=0.25em,mirror}]
+
+\newcommand{\KPED}{D}
+\newcommand{\KPEB}{B}
+\newcommand{\KPEP}{P}
+
+\newcommand{\KPEDs}{\mathit{Ds}}
+\newcommand{\KPEPs}{\mathit{Ps}}
+\newcommand{\KPEPv}{\mathit{Pv}}
+
+\newcommand{\KPEb}{b}
+\newcommand{\KPEd}{d}
+\newcommand{\KPEp}{p}
+
+%\newcommand{\KPEcrta}{\mathit{\textrm{---}}}
+\newcommand{\KPEcrta}{
+    \allowbreak
+    \begin{tikzpicture}[baseline=-0.5ex, remember picture]
+        {
+            \draw[-]
+                (0,0) --
+                (1em,0em);
+        }
+    \end{tikzpicture}\allowbreak 
+}
+%\newcommand{\KPEpike}{\ldots}
+\newcommand{\KPEpike}{
+    \allowbreak
+    \begin{tikzpicture}[baseline=-0.2pt, remember picture]
+        {
+            \draw[fill] (0,0) circle [radius=0.2pt];
+            \draw[fill] (0.5em,0) circle [radius=0.2pt];
+            \draw[fill] (1em,0) circle [radius=0.2pt];
+        }
+    \end{tikzpicture}\allowbreak
+}
+\newcommand{\KPErazcep}{
+    \begin{tikzpicture}[baseline=-0.5ex, remember picture]
+        {
+            \draw[-]
+                (0.87em,0.25em) --
+                (0,0) --
+                (0.87em,-0.5em);
+        }
+    \end{tikzpicture}
+}
+
+\newcommand{\KPEfst}{fst}
+
+\newcommand{\KPEBrazcepDsPs}{\allowbreak\KPEB\KPErazcep^{\KPEDs}_{\KPEPs}\allowbreak}
 
 \begin{document}
+
+%\subfile{guide}
 
 \part{Metamorfoze kapitala in njihov krožni tok}
 
     \chapter{Krožni tok denarnega kapitala}
     \subfile{./source-tex/poglavje_01}
 
-    \chapter{Krožni tok produktivnega kapitala}
-    \subfile{./source-tex/poglavje_02}
+    %\chapter{Krožni tok produktivnega kapitala}
+    %\subfile{./source-tex/poglavje_02}
 
-    \chapter{Krožni tok blagovnega kapitala}
+    %\chapter{Krožni tok blagovnega kapitala}
 
-    \chapter{Trije liki procesa krožnega toka}
+    %\chapter{Trije liki procesa krožnega toka}
 
-    \chapter{Cirkulacijski čas}
+    %\chapter{Cirkulacijski čas}
 
-    \chapter{Cirkulacijski stroški}
+    %\chapter{Cirkulacijski stroški}
 
-\part{Obrat kapitala}
+%\part{Obrat kapitala}
 
-    \chapter{Čas obrata in število obratov}
+    %\chapter{Čas obrata in število obratov}
 
-    \chapter{Fiksni in cirkulirajoči kapital}
+    %\chapter{Fiksni in cirkulirajoči kapital}
 
-    \chapter{Celotni obrat založniškega kapitala. Ciklusi obratov}
+    %\chapter{Celotni obrat založniškega kapitala. Ciklusi obratov}
 
-    \chapter{Teorije o fiksnem in cirkulirajočem kapitalu. Fiziokrati in Adam Smith}
+    %\chapter{Teorije o fiksnem in cirkulirajočem kapitalu. Fiziokrati in Adam Smith}
 
-    \chapter{Teorije o fiksnem in cirkulirajočem kapitalu. Ricardo}
+    %\chapter{Teorije o fiksnem in cirkulirajočem kapitalu. Ricardo}
 
-    \chapter{Delovno obdobje}
+    %\chapter{Delovno obdobje}
 
-    \chapter{Produkcijski čas}
+    %\chapter{Produkcijski čas}
 
-    \chapter{Cirkulacijski čas}
+    %\chapter{Cirkulacijski čas}
 
-    \chapter{Vpliv časa obrata na velikost založenega kapitala}
+    %\chapter{Vpliv časa obrata na velikost založenega kapitala}
 
-    \chapter{Obrat variabilnega kapitala}
+    %\chapter{Obrat variabilnega kapitala}
 
-    \chapter{Cirkulacija presežne vrednosti}
+    %\chapter{Cirkulacija presežne vrednosti}
 
-\part{Reprodukcija in cirkulacija celotnega družbenega kapitala}
+%\part{Reprodukcija in cirkulacija celotnega družbenega kapitala}
 
-\chapter{Uvod}
+    %\chapter{Uvod}
 
-    \chapter{Prejšnje razlage predmeta}
+    %\chapter{Prejšnje razlage predmeta}
 
-    \chapter{Enostavna reprodukcija}
+    %\chapter{Enostavna reprodukcija}
 
-    \chapter{Akumulacija in Razširjena reprodukcija}
+    %\chapter{Akumulacija in Razširjena reprodukcija}
 
-\chapter{Imensko kazalo}
+%\chapter{Imensko kazalo}
 
-\chapter{Stvarno kazalo}
+%\chapter{Stvarno kazalo}
 
-\chapter{Mere in denarne enote}
+%\chapter{Mere in denarne enote}
 
-\chapter{K slovenski izdaji II. zvezka Kapitala}
+%\chapter{K slovenski izdaji II. zvezka Kapitala}
 
 \end{document}
