@@ -1,24 +1,26 @@
-\documentclass[egregdoesnotlikesansseriftitles, a5paper, DIV=calc]{scrbook}
+\documentclass[egregdoesnotlikesansseriftitles, a5paper, BCOR=1cm, DIV=calc]{scrbook}
 
+% TEHNIKA
 \usepackage[utf8]{inputenc}
 \usepackage[T2A, T1]{fontenc}
+% This package manages culturally-determined typographical (and other) rules for a wide range of languages. A document may select a single language to be supported, or it may select several, in which case the document may switch from one language to another in a variety of ways.
 \usepackage[russian,slovene]{babel}
+% The microtype package provides a LATEX interface to the micro-typographic extensions: most prominently, character protrusion and font expansion, furthermore theadjustment of interword spacing and additional kerning, as well as hyphenatableletterspacing (tracking) and the possibility to disable all or selected ligatures.
 \usepackage{microtype}
-
+% A collection of ways to change the typesetting of footnotes. The package provides means of changing the layout of the footnotes themselves, a way to number footnotes per page (the perpage option), to make footnotes disappear in a ‘moving’ argument and to deal with multiple references to footnotes from the same place. The package also has a range of techniques for labelling footnotes with symbols rather than numbers.
 \usepackage[stable]{footmisc}
-
+% Using subfiles the user can handle multi-file projects more comfortably making it possible to both process the subsidiary files by themselves and to process the main file that includes them, without making any changes to either.
 \usepackage{subfiles}
 
-\usepackage{tempora}
-\recalctypearea
-
+% TIKZ
+% PGF is a macro package for creating graphics. It is platform- and format-independent and works together with the most important TeX backend drivers, including pdfTeX and dvips. It comes with a user-friendly syntax layer called TikZ.
 \usepackage{tikz}
 \usetikzlibrary{matrix}
 \usetikzlibrary{decorations.pathreplacing}
-\tikzstyle{overbrace style}=[decorate,decoration={brace,raise=0.25em,amplitude=0.25em}]
-\tikzstyle{underbrace style}=[decorate,decoration={brace,raise=0.25em,amplitude=0.25em,mirror}]
-\tikzstyle{under underbrace style}=[decorate,decoration={brace,raise=0.75em,amplitude=0.25em,mirror}]
+\tikzstyle{overbrace style}=[decorate,decoration={brace, raise=0.25em}]
+\tikzstyle{underbrace style}=[decorate,decoration={brace, raise=0.25em,mirror}]
 
+% FORMULE
 \newcommand{\KPED}{D}
 \newcommand{\KPEB}{B}
 \newcommand{\KPEP}{P}
@@ -31,54 +33,51 @@
 \newcommand{\KPEd}{d}
 \newcommand{\KPEp}{p}
 
-%\newcommand{\KPEcrta}{\mathit{\textrm{---}}}
-\newcommand{\KPEcrta}{
-    \allowbreak
-    \begin{tikzpicture}[baseline=-0.5ex, remember picture]
-        {
-            \draw[-]
-                (0,0) --
-                (1em,0em);
-        }
-    \end{tikzpicture}\allowbreak 
+\newcommand{\KPEcrta}{-
+    % \begin{tikzpicture}[baseline=-0.33ex, remember picture]
+    %     {
+    %         \draw[-, line width=0.435pt, line cap=round]
+    %             (0,0) --
+    %             (1em,0em);
+    %     }
+    % \end{tikzpicture}\allowbreak 
 }
-%\newcommand{\KPEpike}{\ldots}
-\newcommand{\KPEpike}{
-    \allowbreak
-    \begin{tikzpicture}[baseline=-0.2pt, remember picture]
-        {
-            \draw[fill] (0,0) circle [radius=0.2pt];
-            \draw[fill] (0.5em,0) circle [radius=0.2pt];
-            \draw[fill] (1em,0) circle [radius=0.2pt];
-        }
-    \end{tikzpicture}\allowbreak
+\newcommand{\KPEpike}{\dots}
+\newcommand{\KPErazcep}{<
+    % \begin{tikzpicture}[baseline=-0.33ex, remember picture]
+    %     {
+    %         \draw[-, line width=0.435pt, line cap=round]
+    %             (0.87em,0.25em) --
+    %             (0,0) --
+    %             (0.87em,-0.5em);
+    %     }
+    % \end{tikzpicture}
 }
-\newcommand{\KPErazcep}{
-    \begin{tikzpicture}[baseline=-0.5ex, remember picture]
-        {
-            \draw[-]
-                (0.87em,0.25em) --
-                (0,0) --
-                (0.87em,-0.5em);
-        }
-    \end{tikzpicture}
-}
+
+\newcommand{\KPEBrazcepDsPs}{\KPEB\KPErazcep^{\KPEDs}_{\KPEPs}}
 
 \newcommand{\KPEfst}{fst}
 
-\newcommand{\KPEBrazcepDsPs}{\allowbreak\KPEB\KPErazcep^{\KPEDs}_{\KPEPs}\allowbreak}
+\newcounter{KPEstran}
+\setcounter{KPEstran}{30}
+\newcommand{\KPEstran}{\marginpar{\stepcounter{KPEstran} [\theKPEstran]}}
 
+% SLOG
+\usepackage{tempora}
+\recalctypearea
+
+% VSEBINA
 \begin{document}
 
-%\subfile{guide}
+% \subfile{guide}
 
 \part{Metamorfoze kapitala in njihov krožni tok}
 
     \chapter{Krožni tok denarnega kapitala}
     \subfile{./source-tex/poglavje_01}
 
-    %\chapter{Krožni tok produktivnega kapitala}
-    %\subfile{./source-tex/poglavje_02}
+    \chapter{Krožni tok produktivnega kapitala}
+    \subfile{./source-tex/poglavje_02}
 
     %\chapter{Krožni tok blagovnega kapitala}
 
