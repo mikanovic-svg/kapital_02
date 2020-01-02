@@ -1,11 +1,4 @@
-raw-jpg/
-raw-pdf/
-raw-tiff/
-source-out/*
-!source-out/*.pdf
-*.aux
-*.fdb_latexmk
-*.fls
-*.log
-*.jpg
-*.synctex.gz
+jpg/
+pdf/
+tiff/
+outdir/
