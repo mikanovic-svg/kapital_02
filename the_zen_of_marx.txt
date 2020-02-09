@@ -1,0 +1,73 @@
+PREDLOG SLOGOVNEGA VODNIKA
+
+1. Enačbe
+  - Črkovna oznaka:
+    D -> \(\KPED\)
+    D' -> \(\KPED'\)
+    Ds -> \(\KPEDs\)
+    D-B -> \(\KPED\KPEcrta\KPEB\)
+    D...D' -> \(\KPED\KPEpike\KPED'\)
+  - Razcep:
+    B<Ds_Ps -> \(\KPEBrazcepDsPs\)
+  - Matematični operatorji:
+    + - × =
+    Uporabljamo tekstovno, ne formulaične oblike operatorjev: Ds + Ps -> \(\KPEDs\) + \(\KPEPs\) ali \(\KPEDs\textrm{ + }\KPEPs\)
+  - Ulomki:
+    1 / 5 -> $\frac{1}{5}$
+
+2. Presledki
+  - Možnosti fiksnih presledkov:
+    \ -> fiksni\ presledek
+    ~ -> fiksni~presledek
+  - Uporaba fiksnih presledkov:
+    za oštevilčenjem -> 1.\ Besedilo ... besedilo. 2.\ Besedilo ...
+    pred številko knjige, sekcije ali strani -> str.\ 57
+    za številko dela -> I.\ del
+    enote -> 10\ f.\ št.
+    velikost vrednosti -> 100\ pv
+    datumi -> 4.\ julij
+    Friedrich Engels -> F.\ E.
+    odstotki -> 15\ %
+
+3. Poudarki
+  - Poševni tisk:
+    Q u e s n a y -> \emph{Quesnay}
+  - Naglas:
+    é -> \'e
+    ì -> \`i
+    ô -> \^o
+
+4. Razno
+  - Ločila:
+    vezaj -> -
+    pomišljaj -> --
+  - Reševanje problema povečanih razmikov med odstavki (posledica čudnega preloma strani):
+    ukaz na ustreznem mestu -> \newpage
+  - Oštevilčevanje strani:
+    besedilo \KPEstran besedilo
+  - Tabele:
+    Kopiraj najpodobnejši že narejen primer, nato trial & error.
+  - Enačba v naslovu:
+    Glej primer za poglavje "1.3. Tretji stadij. B'–D'"
+  - Engelsove razdelitve besedila:
+    "
+\medskip
+\hrule
+\medskip
+"
+
+5. Opombe
+  - Navadne opombe:
+    besedilo \footnote{Besedilo opombe, kjer veljajo vse možnosti običajnega besedila.} besedilo
+    LaTeX oštevilčevanje resetira na začetku poglavja, Marx na začetku oddelka; če je X želena številka naslednje opombe -> \setcounter{footnote}{X-1}
+  - Opombe slovenskega uredništva (zvezdica); X je številka zadnje opombe:
+    "
+\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+\setcounter{footnote}{0}
+Besedilo ... besedilo \footnote{opomba} besedilo ...
+\renewcommand*{\thefootnote}{\arabic{footnote}}
+\setcounter{footnote}{X}
+    "
+  - Opomba v naslovu:
+    Pojdi v "kapital_02.tex" in glej primer za poglavje "Cirkulacijski čas".
+
